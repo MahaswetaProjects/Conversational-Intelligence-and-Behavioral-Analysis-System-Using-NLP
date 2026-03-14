@@ -1,0 +1,979 @@
+datetime,date_only,day,month,hour,user,message,msg_length,word_count,emoji_count,response_time_min
+2025-01-24 22:00:00,2025-01-24,Friday,January,22,User34,"Dear Students,",14,2,0,
+2025-02-12 13:08:00,2025-02-12,Wednesday,February,13,User34,📢 *Reminder: Sensitization Session on Global Immersion Program* 🌍✨,66,9,2,
+2025-02-13 13:03:00,2025-02-13,Thursday,February,13,User34,📢 *Reminder: Sensitization Session on Global Immersion Program* 🌍✨,66,9,2,
+2025-02-14 21:43:00,2025-02-14,Friday,February,21,User18,"If not, reach as soon as possible.",34,7,0,1960.0
+2025-02-14 21:43:00,2025-02-14,Friday,February,21,User18,Hope all of you have reached your hostel.,41,8,0,
+2025-02-14 21:47:00,2025-02-14,Friday,February,21,User18,Localites mentee reach your home as soon as possible,52,9,0,
+2025-02-15 21:26:00,2025-02-15,Saturday,February,21,User18,Before 9:30pm,13,2,0,
+2025-02-15 21:26:00,2025-02-15,Saturday,February,21,User18,All of you reach your hostel as soon as possible,48,10,0,
+2025-02-15 21:27:00,2025-02-15,Saturday,February,21,User18,Localites mentee reach your home as soon as possible,52,9,0,
+2025-02-16 21:54:00,2025-02-16,Sunday,February,21,User18,Localites mentee reach your home as soon as possible,52,9,0,
+2025-02-16 21:54:00,2025-02-16,Sunday,February,21,User18,All of you reach your hostel as soon as possible,48,10,0,
+2025-02-24 17:14:00,2025-02-24,Monday,February,17,User35,"🌍 *Global Immersion Program 2025 – Explore, Learn & Transform*! ",64,10,1,11240.0
+2025-03-07 14:11:00,2025-03-07,Friday,March,14,User18,Then only I will approve the leave in sap,41,9,0,15657.0
+2025-03-07 14:11:00,2025-03-07,Friday,March,14,User18,Those are applying for leave meet me today,42,8,0,
+2025-03-07 16:34:00,2025-03-07,Friday,March,16,User36,Registration link- https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210603491/?utm_medium=jobshare&utm_source=External+Job+Share,158,3,0,143.0
+2025-03-08 10:52:00,2025-03-08,Saturday,March,10,User18,All of please meet me today for tutor mentoring,47,9,0,1098.0
+2025-03-08 10:52:00,2025-03-08,Saturday,March,10,User18,Come as soon as possible,24,5,0,
+2025-03-08 10:52:00,2025-03-08,Saturday,March,10,User18,Time: 11:30-12:30,17,2,0,
+2025-03-08 10:52:00,2025-03-08,Saturday,March,10,User18,At my cabin,11,3,0,
+2025-03-08 11:54:00,2025-03-08,Saturday,March,11,User18,No one is coming.,17,4,0,
+2025-03-09 09:35:00,2025-03-09,Sunday,March,9,User34,"Dear Students,",14,2,0,1301.0
+2025-03-21 21:48:00,2025-03-21,Friday,March,21,User36,This is to inform all the students that  the registration for AlgoUniversity  Internship Program has been extended till 22nd March'2025 by 11.59 AM. All the YET TO REGISTER students are directed to REGISTER on or before  22nd March'2025 by 11.59 AM.,249,41,0,18013.0
+2025-03-30 14:29:00,2025-03-30,Sunday,March,14,User34,"Dear Students,",14,2,0,12521.0
+2025-04-02 18:08:00,2025-04-02,Wednesday,April,18,User34,*KAREER SCHOOL*,15,2,0,
+2025-04-04 19:08:00,2025-04-04,Friday,April,19,User34,*REGISTRATION: GRAPHS COMPLETION TEST* 🚀,40,5,1,
+2025-04-04 20:37:00,2025-04-04,Friday,April,20,User34,The registration for the NCIIPC-AICTE Pentathon 2025 is now live. ,66,10,0,
+2025-04-08 15:48:00,2025-04-08,Tuesday,April,15,User34,"*UiPath AgentHack* – India Student Edition, a journey where students from across the country come together to learn, build, and win! ",133,21,0,
+2025-04-10 20:07:00,2025-04-10,Thursday,April,20,User34,"Dear Sir,",9,2,0,
+2025-04-11 16:22:00,2025-04-11,Friday,April,16,User34,*Reminder*,10,1,0,
+2025-04-21 18:27:00,2025-04-21,Monday,April,18,User18,"Those who are sending leave application through  sap, I will not approve it. Come physically and meet me",104,18,0,14525.0
+2025-04-21 18:28:00,2025-04-21,Monday,April,18,User19,Ma'am your room number?,23,4,0,1.0
+2025-04-21 18:29:00,2025-04-21,Monday,April,18,User18,f-214,5,1,0,1.0
+2025-04-21 18:29:00,2025-04-21,Monday,April,18,User19,Ok ma'am,8,2,0,0.0
+2025-04-22 10:35:00,2025-04-22,Tuesday,April,10,User34,*Last & Final Call for GIP 2025!* ,34,7,0,966.0
+2025-04-22 18:08:00,2025-04-22,Tuesday,April,18,User18,Those who are staying in the hostel meet me tomorrow at 10am. Or anytime upto 6pm,81,16,0,453.0
+2025-04-22 18:08:00,2025-04-22,Tuesday,April,18,User18,Tomorrow I will conduct tutor mentoring,39,6,0,
+2025-04-22 18:08:00,2025-04-22,Tuesday,April,18,User18,Those are in bhubaneswar only,29,5,0,
+2025-04-23 10:31:00,2025-04-23,Wednesday,April,10,User34,"As per students demand, registration is extended as many are interested in enrolling and requested for registration date extension. You may have the details for both Tech and Finance courses in the notices shared. Registration will remain open for the next 5 days.",264,43,0,983.0
+2025-04-23 10:32:00,2025-04-23,Wednesday,April,10,User34,"As per students demand, registration is extended as many are interested in enrolling and requested for registration date extension. You may have the details for both Tech and Finance courses in the notices shared. Registration will remain open for the next 5 days.",264,43,0,
+2025-04-23 16:49:00,2025-04-23,Wednesday,April,16,User18,Those who are staying in hostel or at bhubaneswar meet me. It is urgent.,72,14,0,377.0
+2025-04-26 11:22:00,2025-04-26,Saturday,April,11,User34,"Get ready for something BIG — the Global *MIT AI Hackathon* is happening *May 2–3, 2025 (online)* and YOU can be a part of it!",126,25,0,3993.0
+2025-04-28 18:08:00,2025-04-28,Monday,April,18,User34,*reminder*,10,1,0,
+2025-06-16 20:15:00,2025-06-16,Monday,June,20,User36,Students Plasmid Innovation online internship program stands canceled. ,71,8,0,70687.0
+2025-06-21 15:11:00,2025-06-21,Saturday,June,15,User34,*This session has started. Join fast.*,38,6,0,6896.0
+2025-06-25 20:13:00,2025-06-25,Wednesday,June,20,User34,*https://meet.google.com/irm-kdzd-tyo*,38,1,0,
+2025-06-28 20:06:00,2025-06-28,Saturday,June,20,User34,*Reminder*,10,1,0,
+2025-06-29 16:25:00,2025-06-29,Sunday,June,16,User34,*Reminder for the above session. It has started. Join fast.*,60,10,0,
+2025-07-05 20:09:00,2025-07-05,Saturday,July,20,User34,*REMINDER*,10,1,0,
+2025-07-08 13:36:00,2025-07-08,Tuesday,July,13,User36,Link to join the webinar,24,5,0,3927.0
+2025-07-08 13:36:00,2025-07-08,Tuesday,July,13,User36,https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NWExODY0M2YtMTkzYi00NTc0LWI2NWUtZjI4N2E2MzRiYjdh%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25225d471751-9675-428d-917b-70f44f9630b0%2522%252c%2522Oid%2522%253a%252295c7a8d8-b6b2-445e-8877-3b9c91165a51%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=77392537-666a-4721-a25d-46963d9edbc9&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true,468,1,0,
+2025-07-08 17:45:00,2025-07-08,Tuesday,July,17,User34,"Dear Student,",13,2,0,249.0
+2025-07-09 10:28:00,2025-07-09,Wednesday,July,10,User18,"Room No for Tutor meeting: A-015, Campus 25",43,8,0,1003.0
+2025-07-09 10:29:00,2025-07-09,Wednesday,July,10,User18,All of you are requested to attend the meeting,46,9,0,
+2025-07-09 11:11:00,2025-07-09,Wednesday,July,11,User18,All of you please come with your passport photo,47,9,0,
+2025-07-14 10:53:00,2025-07-14,Monday,July,10,User18,"Dear Mentees, My mobile phone is not working. If you have any queries, you can message here or mail me.",103,20,0,
+2025-07-14 10:53:00,2025-07-14,Monday,July,10,User18,"Those who have not joined on the day of tutor mentoring, please meet me personally.",83,15,0,
+2025-07-14 10:54:00,2025-07-14,Monday,July,10,User18,"My cabin room no: CAMPUS 25, B-021.",35,7,0,
+2025-07-14 12:43:00,2025-07-14,Monday,July,12,User18,please fill this form,21,4,0,
+2025-07-14 12:44:00,2025-07-14,Monday,July,12,User18,after filling up send it to my mail id: sujata.swainfcs@kiit.ac.in,66,10,0,
+2025-07-15 14:09:00,2025-07-15,Tuesday,July,14,User34,"🎓 *KIITians, Ready to Go Global?* 🌍",35,7,2,1525.0
+2025-07-18 12:06:00,2025-07-18,Friday,July,12,User29,"Respected Sir,",14,2,0,4197.0
+2025-07-18 12:08:00,2025-07-18,Friday,July,12,User30,Yes sure,8,2,0,2.0
+2025-07-18 12:09:00,2025-07-18,Friday,July,12,User30,"Get a first hand idea about the topic of ur choice & meet me tomorrow between 10 am to 11 am in my chamber at Campus 25, Block C-201, chamber I for discussion",158,33,0,
+2025-07-18 12:54:00,2025-07-18,Friday,July,12,User29,Thank you sir,13,3,0,45.0
+2025-07-19 14:11:00,2025-07-19,Saturday,July,14,User29,"Good afternoon sir,",19,3,0,
+2025-07-19 15:05:00,2025-07-19,Saturday,July,15,User30,*1st draft deadline is July 25:::::* ,37,6,0,54.0
+2025-07-19 15:05:00,2025-07-19,Saturday,July,15,User30,Ok ,3,1,0,
+2025-07-22 16:39:00,2025-07-22,Tuesday,July,16,User18,"Dear mentees, please fill this this biodata",43,7,0,4414.0
+2025-07-22 16:39:00,2025-07-22,Tuesday,July,16,User18,i have received only 3,22,5,0,
+2025-07-22 16:40:00,2025-07-22,Tuesday,July,16,User18,palak rupali and tanya,22,4,0,
+2025-07-22 16:41:00,2025-07-22,Tuesday,July,16,User18,other mentees please fill and send to my mail,45,9,0,
+2025-07-22 17:25:00,2025-07-22,Tuesday,July,17,User29,Sir in PROPOSED MODEL it's max 3 page including the pic ?,57,12,0,44.0
+2025-07-22 17:31:00,2025-07-22,Tuesday,July,17,User30,Diagram with its explanation,28,4,0,6.0
+2025-07-22 17:31:00,2025-07-22,Tuesday,July,17,User30,Yes,3,1,0,
+2025-07-23 10:10:00,2025-07-23,Wednesday,July,10,User34,"Dear Student,",13,2,0,999.0
+2025-07-23 10:43:00,2025-07-23,Wednesday,July,10,User29,Sir please take a look at this document once. Formatting is not done yet.,73,14,0,33.0
+2025-07-23 10:51:00,2025-07-23,Wednesday,July,10,User30,Few changes needed.,19,3,0,8.0
+2025-07-23 17:53:00,2025-07-23,Wednesday,July,17,User30,"Dear team, ",11,2,0,
+2025-07-25 09:13:00,2025-07-25,Friday,July,9,User29,"Sir, I have uploaded it on the draft link. After that, what do I have to do now?",80,18,0,2360.0
+2025-07-25 10:10:00,2025-07-25,Friday,July,10,User30,Ok,2,1,0,57.0
+2025-07-25 10:10:00,2025-07-25,Friday,July,10,User30,I will tell soon,16,4,0,
+2025-07-29 12:51:00,2025-07-29,Tuesday,July,12,User18,"Those who are absent in the tutor mentoring, come and meet me",61,12,0,5921.0
+2025-07-29 12:52:00,2025-07-29,Tuesday,July,12,User18,3:15-5 I am busy with lab. Either come before or after that,59,12,0,
+2025-07-29 13:01:00,2025-07-29,Tuesday,July,13,User18,B-021,5,1,0,
+2025-07-29 13:01:00,2025-07-29,Tuesday,July,13,User18,My cabin no,11,3,0,
+2025-07-29 18:41:00,2025-07-29,Tuesday,July,18,User29,Hello uncle,11,2,0,340.0
+2025-07-29 18:41:00,2025-07-29,Tuesday,July,18,User29,"I have studied data analysis, statistics, machine learning, and deep learning. I want to pursue a career in the field of AI. What are the requirements typically expected in interviews? Also, what should I learn next and how should I proceed? Please guide me a little.",267,46,0,
+2025-07-29 19:13:00,2025-07-29,Tuesday,July,19,User32,Now in 6th sem ?,16,5,0,32.0
+2025-07-29 19:14:00,2025-07-29,Tuesday,July,19,User29,5th sem,7,2,0,1.0
+2025-07-29 19:14:00,2025-07-29,Tuesday,July,19,User32,Try to do an internship after every semester,44,8,0,0.0
+2025-07-29 19:15:00,2025-07-29,Tuesday,July,19,User32,Do internship,13,2,0,
+2025-07-29 19:15:00,2025-07-29,Tuesday,July,19,User32,Try to study AI related course & try to do join groups where students learn & do real project,93,19,0,
+2025-07-29 19:16:00,2025-07-29,Tuesday,July,19,User29,Ok uncle thank you,18,4,0,1.0
+2025-07-31 10:29:00,2025-07-31,Thursday,July,10,User30,"Dear team,",10,2,0,2353.0
+2025-07-31 10:30:00,2025-07-31,Thursday,July,10,User30,"Dear team,",10,2,0,
+2025-07-31 20:30:00,2025-07-31,Thursday,July,20,User30,No,2,1,0,
+2025-07-31 20:30:00,2025-07-31,Thursday,July,20,User30,Also remove paper title,23,4,0,
+2025-07-31 20:31:00,2025-07-31,Thursday,July,20,User29,Ok sir,6,2,0,1.0
+2025-08-01 16:36:00,2025-08-01,Friday,August,16,User34,Hey Kiitians! 🚀,15,3,1,1205.0
+2025-08-01 18:04:00,2025-08-01,Friday,August,18,User34,"Dear Students,",14,2,0,
+2025-08-06 17:33:00,2025-08-06,Wednesday,August,17,User30,"Meet me tomorrow morning 10.30 am with ur laptop in library 2nd floor, Campus 25, Block C for final round of paper revision.",124,23,0,7169.0
+2025-08-06 17:34:00,2025-08-06,Wednesday,August,17,User29,Sir I have continuous classes till 12 pm,40,8,0,1.0
+2025-08-06 19:15:00,2025-08-06,Wednesday,August,19,User30,12 pm then,10,3,0,101.0
+2025-08-09 11:46:00,2025-08-09,Saturday,August,11,User18,Tutor mentoring Time rescheduled to 12:30 due to some emergency,63,10,0,3871.0
+2025-08-09 12:04:00,2025-08-09,Saturday,August,12,User18,Those who have open elective selection they can meet me on monday,65,12,0,
+2025-08-09 12:07:00,2025-08-09,Saturday,August,12,User20,Thank you Maam,14,3,0,3.0
+2025-08-09 12:40:00,2025-08-09,Saturday,August,12,User21,Thank you mam,13,3,0,33.0
+2025-08-14 17:23:00,2025-08-14,Thursday,August,17,User34,🚨 ATTENTION: 2027 GRADUATING B.TECH STUDENTS 🚨,46,7,2,7483.0
+2025-08-16 11:47:00,2025-08-16,Saturday,August,11,User34,Build the Future: Software Engineering in the AI Era with Kushal Vijay!,71,12,0,
+2025-08-16 15:39:00,2025-08-16,Saturday,August,15,User34,*Reminder*,10,1,0,
+2025-08-17 20:41:00,2025-08-17,Sunday,August,20,User34,Those who have not received email can check this,48,9,0,
+2025-08-21 11:41:00,2025-08-21,Thursday,August,11,User18,"Those who have not signed, please come on 2nd half.",51,10,0,5220.0
+2025-08-21 11:41:00,2025-08-21,Thursday,August,11,User18,Also who have not submitted the mentee biodata form submit it,61,11,0,
+2025-08-22 10:47:00,2025-08-22,Friday,August,10,User18,My cabin : B-021 Campus 25,26,6,0,
+2025-08-22 10:48:00,2025-08-22,Friday,August,10,User18,I am here upto 12pm. Otherwise after 2pm you can come,53,11,0,
+2025-08-22 10:53:00,2025-08-22,Friday,August,10,User21,Mam we have shl exam from 2:30 and class end at 2,49,12,0,5.0
+2025-08-22 11:18:00,2025-08-22,Friday,August,11,User18,You have free slot I think,26,6,0,25.0
+2025-09-03 10:03:00,2025-09-03,Wednesday,September,10,User30,"Dear team, Congratulations. ",28,3,0,17205.0
+2025-09-03 14:03:00,2025-09-03,Wednesday,September,14,User29,"Sir , I am in the reading room.",31,8,0,240.0
+2025-09-03 23:39:00,2025-09-03,Wednesday,September,23,User29,SIH m participate kar rhe ho ?,30,7,0,
+2025-09-03 23:40:00,2025-09-03,Wednesday,September,23,User29,Humme ek chahiye tha isliye poocha,34,6,0,
+2025-09-03 23:40:00,2025-09-03,Wednesday,September,23,User29,Acha thik h,11,3,0,
+2025-09-03 23:40:00,2025-09-03,Wednesday,September,23,User33,Ha,2,1,0,0.0
+2025-09-03 23:41:00,2025-09-03,Wednesday,September,23,User33,Mera team pehle hi banna hua hei,32,7,0,
+2025-09-03 23:41:00,2025-09-03,Wednesday,September,23,User29,Achhhaaa thik h,15,3,0,0.0
+2025-09-04 09:07:00,2025-09-04,Thursday,September,9,User30,"Dear team,",10,2,0,566.0
+2025-09-04 17:00:00,2025-09-04,Thursday,September,17,User30,sunilkara@ybl,13,1,0,
+2025-09-04 17:00:00,2025-09-04,Thursday,September,17,User30,Transfer the registration fees to his upi id.,45,8,0,
+2025-09-04 17:00:00,2025-09-04,Thursday,September,17,User30,Then submit the Google form by 6.30 pm,38,8,0,
+2025-09-04 17:17:00,2025-09-04,Thursday,September,17,User29,Sir it is showing like this . I have tried from another phone also.,67,14,0,17.0
+2025-09-04 17:19:00,2025-09-04,Thursday,September,17,User30,Ohh. Payment limit exceeded i think.,36,6,0,2.0
+2025-09-04 17:19:00,2025-09-04,Thursday,September,17,User30,Wait,4,1,0,
+2025-09-04 17:19:00,2025-09-04,Thursday,September,17,User30,Then submit the Google form by 6.30 pm,38,8,0,
+2025-09-04 17:19:00,2025-09-04,Thursday,September,17,User30,Transfer the registration fees to his upi id.,45,8,0,
+2025-09-04 17:19:00,2025-09-04,Thursday,September,17,User30,sunilkara@ybl,13,1,0,
+2025-09-04 17:27:00,2025-09-04,Thursday,September,17,User30,Account holder: Sushruta Mishra,31,4,0,
+2025-09-04 17:27:00,2025-09-04,Thursday,September,17,User29,It is showing the same thing sir,32,7,0,0.0
+2025-09-04 17:27:00,2025-09-04,Thursday,September,17,User30,Ohh then u send me. I will transfer him.,40,9,0,0.0
+2025-09-04 17:27:00,2025-09-04,Thursday,September,17,User30,Wait,4,1,0,
+2025-09-05 08:13:00,2025-09-05,Friday,September,8,User30,Submitted the Google form?,26,4,0,
+2025-09-05 08:15:00,2025-09-05,Friday,September,8,User29,Yes sir,7,2,0,2.0
+2025-09-07 23:03:00,2025-09-07,Sunday,September,23,User29,Yhi solution h iska,19,4,0,
+2025-09-07 23:03:00,2025-09-07,Sunday,September,23,User29,Online class m padhai thi n maam,32,7,0,
+2025-09-09 16:52:00,2025-09-09,Tuesday,September,16,User34,Registration Form Link: https://forms.gle/Q5aGjJErGH8fKSKF7,59,4,0,2509.0
+2025-09-09 18:48:00,2025-09-09,Tuesday,September,18,User29,?,1,1,0,116.0
+2025-09-09 18:48:00,2025-09-09,Tuesday,September,18,User29,Kya bheju ?,11,3,0,
+2025-09-09 18:48:00,2025-09-09,Tuesday,September,18,User29,Kaunsa ?,8,2,0,
+2025-09-09 18:49:00,2025-09-09,Tuesday,September,18,User33,Tha,3,1,0,1.0
+2025-09-09 18:49:00,2025-09-09,Tuesday,September,18,User33,Ee mei jo question karya,24,5,0,
+2025-09-09 18:49:00,2025-09-09,Tuesday,September,18,User29,Kaunsa,6,1,0,0.0
+2025-09-09 18:49:00,2025-09-09,Tuesday,September,18,User33,Wo questions likha nhi hu,25,5,0,0.0
+2025-09-09 18:49:00,2025-09-09,Tuesday,September,18,User33,Arre jo bhi class mei karta tha,31,7,0,
+2025-09-09 18:50:00,2025-09-09,Tuesday,September,18,User33,Maff kare,9,2,0,
+2025-09-09 18:50:00,2025-09-09,Tuesday,September,18,User29,Pdf bheja h n,13,4,0,0.0
+2025-09-09 18:51:00,2025-09-09,Tuesday,September,18,User29,Kha k bhejti hu,15,4,0,
+2025-09-09 18:51:00,2025-09-09,Tuesday,September,18,User33,Okok,4,1,0,0.0
+2025-09-09 19:10:00,2025-09-09,Tuesday,September,19,User33,Thanks,6,1,0,
+2025-09-09 19:11:00,2025-09-09,Tuesday,September,19,User29,Aagli baar se nahi milega,25,5,0,1.0
+2025-09-09 19:11:00,2025-09-09,Tuesday,September,19,User33,Maff kare,9,2,0,0.0
+2025-09-10 10:34:00,2025-09-10,Wednesday,September,10,User33,Isko solve karke answer bhejo na mujhe cross check karna hei,60,11,0,
+2025-09-12 18:02:00,2025-09-12,Friday,September,18,User18,If anyone is going outside then come back to hostel before your stipulated time.,80,14,0,3328.0
+2025-09-12 18:02:00,2025-09-12,Friday,September,18,User18,All of you mantain the discipline and hostel rules,50,9,0,
+2025-09-12 18:02:00,2025-09-12,Friday,September,18,User18,Make sure that I will not receive any complaints regarding you.,63,11,0,
+2025-09-12 18:03:00,2025-09-12,Friday,September,18,User18,Tomorrow I will not come for mentoring. We will meet on Monday.,63,12,0,
+2025-09-15 10:57:00,2025-09-15,Monday,September,10,User34,*IMPORTANT ANNOUNCEMENT*,24,2,0,3894.0
+2025-09-16 11:13:00,2025-09-16,Tuesday,September,11,User18,Come for the mentoring. I am available at my cabin B-021. Campus 25,67,13,0,1456.0
+2025-09-16 11:17:00,2025-09-16,Tuesday,September,11,User18,come before 3pm. then I am busy,31,7,0,
+2025-09-16 12:01:00,2025-09-16,Tuesday,September,12,User18,Yes,3,1,0,
+2025-09-16 12:01:00,2025-09-16,Tuesday,September,12,User22,Mam can I come at 1?,20,6,0,0.0
+2025-09-17 10:55:00,2025-09-17,Wednesday,September,10,User20,"Good Morning Ma'am, ",20,3,0,1374.0
+2025-09-17 18:58:00,2025-09-17,Wednesday,September,18,User33,Isko register karne ka Maan ho toh kar dena warna forward kar do apne circle mei,80,16,0,483.0
+2025-09-18 17:29:00,2025-09-18,Thursday,September,17,User18,Regarding Leave for durga puja: max academic leave is 3 days. for these applications I can only approve.,104,18,0,1351.0
+2025-09-18 17:30:00,2025-09-18,Thursday,September,17,User18,Otherwise I can't approve the leave,35,6,0,
+2025-09-18 20:30:00,2025-09-18,Thursday,September,20,User33,AI Odyssey – The Ultimate Agentic AI Event!,43,8,0,180.0
+2025-09-20 18:52:00,2025-09-20,Saturday,September,18,User33,Kesa raha?,10,2,0,
+2025-09-20 19:18:00,2025-09-20,Saturday,September,19,User29,Tumhara,7,1,0,26.0
+2025-09-20 19:18:00,2025-09-20,Saturday,September,19,User29,Thik,4,1,0,
+2025-09-20 20:03:00,2025-09-20,Saturday,September,20,User33,Sahi tha hamara bhi,19,4,0,45.0
+2025-09-20 20:07:00,2025-09-20,Saturday,September,20,User29,Acha,4,1,0,4.0
+2025-09-20 20:08:00,2025-09-20,Saturday,September,20,User33,Kaha,4,1,0,1.0
+2025-09-20 20:08:00,2025-09-20,Saturday,September,20,User29,Dekhi thi tumko,15,3,0,0.0
+2025-09-20 20:08:00,2025-09-20,Saturday,September,20,User33,Hei,3,1,0,0.0
+2025-09-20 20:08:00,2025-09-20,Saturday,September,20,User33,?,1,1,0,
+2025-09-20 20:12:00,2025-09-20,Saturday,September,20,User29,Koi n,5,2,0,4.0
+2025-09-20 20:12:00,2025-09-20,Saturday,September,20,User33,Dhyan nhi diya hoga,19,4,0,0.0
+2025-09-20 20:12:00,2025-09-20,Saturday,September,20,User33,Mujhe pata nhi chala,20,4,0,
+2025-09-20 20:12:00,2025-09-20,Saturday,September,20,User29,25 k main gate m,16,5,0,0.0
+2025-09-20 20:12:00,2025-09-20,Saturday,September,20,User33,Nhi toh yaar,12,3,0,0.0
+2025-09-20 20:12:00,2025-09-20,Saturday,September,20,User29,Tumne dekha muze fir chale gye sab dekhi m,42,9,0,0.0
+2025-09-20 20:13:00,2025-09-20,Saturday,September,20,User29,Itna hasi aya,13,3,0,
+2025-09-20 20:13:00,2025-09-20,Saturday,September,20,User33,Arre bc,7,2,0,0.0
+2025-09-20 20:13:00,2025-09-20,Saturday,September,20,User33,Mere mei toh aya hi nhi,23,6,0,
+2025-09-20 20:13:00,2025-09-20,Saturday,September,20,User29,Kitna cross question poocha,27,4,0,0.0
+2025-09-20 20:13:00,2025-09-20,Saturday,September,20,User29,Humme poocha gf se break up ho gya mental health k kya karoge tum log mere liye,79,17,0,
+2025-09-20 20:13:00,2025-09-20,Saturday,September,20,User33,Ye kya hei,10,3,0,0.0
+2025-09-20 20:13:00,2025-09-20,Saturday,September,20,User33,Baas ml wale kiya,17,4,0,
+2025-09-20 20:14:00,2025-09-20,Saturday,September,20,User29,Hamara topic tha mental health k website,40,7,0,1.0
+2025-09-20 20:14:00,2025-09-20,Saturday,September,20,User29,Wo aisa poocha,14,3,0,
+2025-09-20 20:14:00,2025-09-20,Saturday,September,20,User33,Heart attack toh ata hi hei usko,32,7,0,0.0
+2025-09-20 20:14:00,2025-09-20,Saturday,September,20,User29,Hum bole moral support dega hamara chat bot,43,8,0,0.0
+2025-09-20 20:14:00,2025-09-20,Saturday,September,20,User33,Gajab yaar,10,2,0,0.0
+2025-09-20 20:14:00,2025-09-20,Saturday,September,20,User33,Taab toh harsh team mei ho na chahiye tha,41,9,0,
+2025-09-20 20:15:00,2025-09-20,Saturday,September,20,User33,Souch ye daal du insta mei,26,6,0,
+2025-09-20 20:16:00,2025-09-20,Saturday,September,20,User33,Isko dekha hei bohot jagah,26,5,0,
+2025-09-20 20:16:00,2025-09-20,Saturday,September,20,User29,Daal do,7,2,0,0.0
+2025-09-20 20:16:00,2025-09-20,Saturday,September,20,User29,No humne ek male padh liya tha 🤣,32,8,0,
+2025-09-20 20:16:00,2025-09-20,Saturday,September,20,User33,Ye toh girls only team hei,26,6,0,0.0
+2025-09-20 20:16:00,2025-09-20,Saturday,September,20,User33,Aree ye jo blue shirt hei ye usc mei hei kya,44,11,0,
+2025-09-20 20:17:00,2025-09-20,Saturday,September,20,User29,We are alsi,11,3,0,1.0
+2025-09-20 20:17:00,2025-09-20,Saturday,September,20,User29,Yelog society m h kuch kuch m aur meri roommate ko chor k,57,13,0,
+2025-09-20 20:18:00,2025-09-20,Saturday,September,20,User33,Nhi jo blue wali wo toh sayad team mei thi mere dost ki fir thumare team mei kese,81,18,0,1.0
+2025-09-20 20:18:00,2025-09-20,Saturday,September,20,User29,Nss wagerah m h,15,4,0,0.0
+2025-09-20 20:18:00,2025-09-20,Saturday,September,20,User33,Samaj gaya,10,2,0,0.0
+2025-09-20 20:18:00,2025-09-20,Saturday,September,20,User29,Muze kya pata hum sabka first sih tha y,39,9,0,0.0
+2025-09-20 20:19:00,2025-09-20,Saturday,September,20,User33,Ha wahi ui path wala agentic ai,31,7,0,1.0
+2025-09-20 20:19:00,2025-09-20,Saturday,September,20,User33,Ha ye usc mei bhi hei,21,6,0,
+2025-09-20 20:19:00,2025-09-20,Saturday,September,20,User29,Usc kya h society?,18,4,0,0.0
+2025-09-20 20:19:00,2025-09-20,Saturday,September,20,User29,Acha,4,1,0,
+2025-09-22 09:21:00,2025-09-22,Monday,September,9,User18,Come for the tutor mentoring in between 9-11 and 12-1. today timing,67,12,0,2222.0
+2025-09-22 09:23:00,2025-09-22,Monday,September,9,User18,if you can't come today then come tomorrow in between 10-3pm,60,11,0,
+2025-09-22 22:37:00,2025-09-22,Monday,September,22,User33,4 likhya tha na toh sirf 2 hi likhna hei?,41,10,0,794.0
+2025-09-22 22:53:00,2025-09-22,Monday,September,22,User29,Ha,2,1,0,16.0
+2025-09-22 23:11:00,2025-09-22,Monday,September,23,User33,iska viva wagera hoga mtlb mam puchi gi iss related sawal?,58,11,0,18.0
+2025-09-22 23:13:00,2025-09-22,Monday,September,23,User29,After vacation viva h,21,4,0,2.0
+2025-09-22 23:14:00,2025-09-22,Monday,September,23,User33,Mtlb kal baas file check hogi na,32,7,0,1.0
+2025-09-22 23:36:00,2025-09-22,Monday,September,23,User29,Ha,2,1,0,22.0
+2025-09-23 12:24:00,2025-09-23,Tuesday,September,12,User18,I have reached,14,3,0,768.0
+2025-09-23 12:24:00,2025-09-23,Tuesday,September,12,User23,Maam we visited your cabin twice but we couldnt find you. When should we come today?,84,16,0,0.0
+2025-09-23 12:25:00,2025-09-23,Tuesday,September,12,User18,Come after 10 mins,18,4,0,1.0
+2025-09-23 12:28:00,2025-09-23,Tuesday,September,12,User23,Can we come after 2?,20,5,0,3.0
+2025-09-23 12:28:00,2025-09-23,Tuesday,September,12,User23,Maam we have lab now for 2 hrs.,31,8,0,
+2025-09-23 12:29:00,2025-09-23,Tuesday,September,12,User18,Yes,3,1,0,1.0
+2025-09-23 12:30:00,2025-09-23,Tuesday,September,12,User23,Okay maam thank you,19,4,0,1.0
+2025-10-13 17:30:00,2025-10-13,Monday,October,17,User34,"Dear Students,",14,2,0,29100.0
+2025-10-13 19:27:00,2025-10-13,Monday,October,19,User18,So if you want to take my sign in your makeup midsem application you can come tomorrow in between 12-3,102,20,0,117.0
+2025-10-13 19:27:00,2025-10-13,Monday,October,19,User18,From 15th October I will take leave for long periods,52,10,0,
+2025-10-14 12:05:00,2025-10-14,Tuesday,October,12,User33,🚀 _*UiPath Student Community KIIT – Recruitment 2k25 is LIVE!*_,63,10,1,998.0
+2025-10-16 08:12:00,2025-10-16,Thursday,October,8,User29,Class ayoge n,13,3,0,2647.0
+2025-10-16 08:12:00,2025-10-16,Thursday,October,8,User29,Presentation h,14,2,0,
+2025-10-16 08:12:00,2025-10-16,Thursday,October,8,User29,Jaldi aao,9,2,0,
+2025-10-16 09:51:00,2025-10-16,Thursday,October,9,User34,🚀 _*UiPath Student Community KIIT – Recruitment 2k25 is LIVE!*_,63,10,1,99.0
+2025-10-16 22:48:00,2025-10-16,Thursday,October,22,User33,Prims ka algo samjha  thora samaj nhi aa raha samjha dogi?,58,11,0,777.0
+2025-10-17 16:54:00,2025-10-17,Friday,October,16,User29,Here's a Diwali gift for you! 🪔,31,7,0,1086.0
+2025-10-17 22:04:00,2025-10-17,Friday,October,22,User18,"Dear Mentee, You already have received a mail regarding replacement tutor mentoring",83,12,0,310.0
+2025-10-17 22:07:00,2025-10-17,Friday,October,22,User18,She is now group admin.,23,5,0,
+2025-10-17 22:07:00,2025-10-17,Friday,October,22,User18,I am leaving from this group.,29,6,0,
+2025-10-17 22:07:00,2025-10-17,Friday,October,22,User18,All the very best for your future.,34,7,0,
+2025-10-17 22:07:00,2025-10-17,Friday,October,22,User18,I have added sumana maam here.,30,6,0,
+2025-10-17 22:08:00,2025-10-17,Friday,October,22,User24,We will miss you ma'am❤️🫂,25,5,0,1.0
+2025-10-17 22:08:00,2025-10-17,Friday,October,22,User24,Take care,9,2,0,
+2025-10-17 22:09:00,2025-10-17,Friday,October,22,User18,thank you,9,2,0,1.0
+2025-10-17 22:36:00,2025-10-17,Friday,October,22,User25,take care maam💕,15,3,1,27.0
+2025-10-18 21:42:00,2025-10-18,Saturday,October,21,User33,Daa ka durga puja ke baad ka notes bhej do na,45,11,0,1386.0
+2025-10-18 21:52:00,2025-10-18,Saturday,October,21,User29,Harsh k paas tha,16,4,0,10.0
+2025-10-18 21:52:00,2025-10-18,Saturday,October,21,User29,M likhi nhi hu,14,4,0,
+2025-10-20 09:54:00,2025-10-20,Monday,October,9,User37,Waiting for this message,24,4,0,2162.0
+2025-10-20 14:17:00,2025-10-20,Monday,October,14,User26,Good afternoon everyone ,24,3,0,263.0
+2025-10-20 14:22:00,2025-10-20,Monday,October,14,User26,POLL:,5,1,0,
+2025-10-20 14:27:00,2025-10-20,Monday,October,14,User26,I have sanctioned leave to some of the mentees. I hope you didn't take leave without my permission. Take care of it.,116,22,0,
+2025-10-20 14:28:00,2025-10-20,Monday,October,14,User26,Then it's okay.,15,3,0,
+2025-10-20 14:28:00,2025-10-20,Monday,October,14,User27,Mam I took approval from sujata mam before she left.,52,10,0,0.0
+2025-10-20 14:31:00,2025-10-20,Monday,October,14,User26,I need this report before 4pm. Everyone kindly select the appropriate option here quickly,89,14,0,3.0
+2025-10-20 16:06:00,2025-10-20,Monday,October,16,User20,Ma'am my leave was approved my Sujata Ma'am.,44,8,0,95.0
+2025-10-20 19:18:00,2025-10-20,Monday,October,19,User26,Those who are present. I am coming to the hostel. Kindly meet me after I arrive. Here I will drop a msg then you come down to ground floor,138,29,0,192.0
+2025-10-23 21:11:00,2025-10-23,Thursday,October,21,User33,optimal binary search tree syllabus mei hei?,44,7,0,4433.0
+2025-10-23 21:20:00,2025-10-23,Thursday,October,21,User29,Padhaya h abhi tak too,22,5,0,9.0
+2025-10-23 21:20:00,2025-10-23,Thursday,October,21,User29,Nhi,3,1,0,
+2025-10-27 10:11:00,2025-10-27,Monday,October,10,User30,URGENT ,7,1,0,5091.0
+2025-10-27 18:46:00,2025-10-27,Monday,October,18,User29,"Sir, if I make some changes to my paper , should I send them to you on WhatsApp or email ?",90,21,0,515.0
+2025-10-27 18:56:00,2025-10-27,Monday,October,18,User30,WhatsApp,8,1,0,10.0
+2025-10-28 09:06:00,2025-10-28,Tuesday,October,9,User30,AI plag detected. ,18,3,0,
+2025-10-28 09:06:00,2025-10-28,Tuesday,October,9,User29,Ok sir,6,2,0,0.0
+2025-10-28 19:37:00,2025-10-28,Tuesday,October,19,User30,Mail me this,12,3,0,631.0
+2025-11-01 08:24:00,2025-11-01,Saturday,November,8,User33,Class jaa rahe ho?,18,4,0,5087.0
+2025-11-01 08:32:00,2025-11-01,Saturday,November,8,User29,Nhi,3,1,0,8.0
+2025-11-01 08:39:00,2025-11-01,Saturday,November,8,User33,Pura din?,9,2,0,7.0
+2025-11-01 08:46:00,2025-11-01,Saturday,November,8,User29,Ha,2,1,0,7.0
+2025-11-01 08:46:00,2025-11-01,Saturday,November,8,User29,Nhi Jaa rhi,11,3,0,
+2025-11-02 19:21:00,2025-11-02,Sunday,November,19,User26,Good evening dear students kindly Meet me at My Cabin tomorrow (Monday),71,12,0,2075.0
+2025-11-02 23:21:00,2025-11-02,Sunday,November,23,User33,Se wale me kya karna hei?,25,6,0,240.0
+2025-11-02 23:38:00,2025-11-02,Sunday,November,23,User29,Don't know maine too kuch nhi padha,35,7,0,17.0
+2025-11-02 23:43:00,2025-11-02,Sunday,November,23,User33,Ok,2,1,0,5.0
+2025-11-03 07:36:00,2025-11-03,Monday,November,7,User20,"Good Morning Ma'am,",19,3,0,473.0
+2025-11-03 07:41:00,2025-11-03,Monday,November,7,User19,Same ma'am,10,2,0,5.0
+2025-11-03 07:45:00,2025-11-03,Monday,November,7,User26,Tell me your available time,27,5,0,4.0
+2025-11-03 07:50:00,2025-11-03,Monday,November,7,User20,After 1 pm Ma'am,16,4,0,5.0
+2025-11-03 08:09:00,2025-11-03,Monday,November,8,User25,same with me maam after 1 pm i am free,38,10,0,19.0
+2025-11-03 10:58:00,2025-11-03,Monday,November,10,User26,Come after 1pm,14,3,0,169.0
+2025-11-03 11:10:00,2025-11-03,Monday,November,11,User28,Ma’am we are in A 005 but are unable to find your cabin,55,13,0,12.0
+2025-11-03 12:33:00,2025-11-03,Monday,November,12,User26,"My cabin is A 005, come to the first chamber A. ",48,11,0,83.0
+2025-11-03 20:25:00,2025-11-03,Monday,November,20,User29,"Sir, my CN viva was scheduled for Wednesday, but it might be a holiday that day. The next CN class is on Friday, but I have my DAA sessional that day. So, on which day should I give my viva?",190,40,0,472.0
+2025-11-03 20:27:00,2025-11-03,Monday,November,20,User29,Testing estimation reliability,30,3,0,
+2025-11-03 20:38:00,2025-11-03,Monday,November,20,User30,Already msged in grp,20,4,0,11.0
+2025-11-03 20:40:00,2025-11-03,Monday,November,20,User29,Bhai sequence se kya jata h,27,6,0,2.0
+2025-11-03 20:40:00,2025-11-03,Monday,November,20,User29,Topic padh lo,13,3,0,
+2025-11-03 20:45:00,2025-11-03,Monday,November,20,User33,Ok,2,1,0,5.0
+2025-11-04 19:38:00,2025-11-04,Tuesday,November,19,User33,Suna ee ka assignment bhejna,28,5,0,
+2025-11-07 17:26:00,2025-11-07,Friday,November,17,User33,Even roll hei na,16,4,0,
+2025-11-07 17:26:00,2025-11-07,Friday,November,17,User33,Daa ka assignment kiya ?,24,5,0,
+2025-11-07 17:27:00,2025-11-07,Friday,November,17,User33,Agar kiya toh bhejna,20,4,0,
+2025-11-07 18:55:00,2025-11-07,Friday,November,18,User29,Mere saamne bath k,18,4,0,88.0
+2025-11-07 18:55:00,2025-11-07,Friday,November,18,User29,Harsh too bheja,15,3,0,
+2025-11-07 19:02:00,2025-11-07,Friday,November,19,User33,Ha de diya harsh ne,19,5,0,7.0
+2025-11-09 15:59:00,2025-11-09,Sunday,November,15,User33,Wo ee wala bhej do,18,5,0,
+2025-11-09 21:03:00,2025-11-09,Sunday,November,21,User26,"Dear mentees, ",14,2,0,304.0
+2025-11-09 21:22:00,2025-11-09,Sunday,November,21,User33,Pls🙏,4,1,1,19.0
+2025-11-12 08:18:00,2025-11-12,Wednesday,November,8,User26,Dear students ,14,2,0,3536.0
+2025-11-12 22:29:00,2025-11-12,Wednesday,November,22,User33,Ye tcp transmission policy and tcp timer management pdf diya hei ya syllabus mei hei?,85,15,0,851.0
+2025-11-12 22:40:00,2025-11-12,Wednesday,November,22,User29,Nhi diya h Maine pyq m dekha,28,7,0,11.0
+2025-11-12 22:41:00,2025-11-12,Wednesday,November,22,User33,toh ye syllabus mei hei?,24,5,0,1.0
+2025-11-12 22:45:00,2025-11-12,Wednesday,November,22,User29,Yesab mat dikha trauma ata h,28,6,0,4.0
+2025-11-12 22:46:00,2025-11-12,Wednesday,November,22,User33,Mei kya bolu aab,16,4,0,1.0
+2025-11-13 09:46:00,2025-11-13,Thursday,November,9,User29,https://in.docworkspace.com/d/sIN6o8v_4Acuu08gG?sa=601.1037,59,1,0,660.0
+2025-11-13 10:14:00,2025-11-13,Thursday,November,10,User33,https://drive.google.com/drive/folders/1uQtdovhoI67Xlnu-PiIkUbx-MNfef9n9,72,1,0,28.0
+2025-11-13 10:15:00,2025-11-13,Thursday,November,10,User29,Ok,2,1,0,1.0
+2025-11-13 10:15:00,2025-11-13,Thursday,November,10,User33,Yaha par saab hei,17,4,0,0.0
+2025-11-13 11:32:00,2025-11-13,Thursday,November,11,User33,Agar time mile toh,18,4,0,
+2025-11-13 12:06:00,2025-11-13,Thursday,November,12,User29,What is this,12,3,0,34.0
+2025-11-13 17:38:00,2025-11-13,Thursday,November,17,User33,Ek doubt hei free ho? <This message was edited>,47,9,0,332.0
+2025-11-13 18:04:00,2025-11-13,Thursday,November,18,User33,Aree pls na time mile toh congestion control samjha dona,56,10,0,
+2025-11-13 18:17:00,2025-11-13,Thursday,November,18,User29,Muze khud kuch samajh nhi aa rha,32,7,0,13.0
+2025-11-13 18:17:00,2025-11-13,Thursday,November,18,User29,Numerical kaise ban rhe h,25,5,0,
+2025-11-13 18:17:00,2025-11-13,Thursday,November,18,User29,Tumko subnetting k numerical ata h too bata dena,48,9,0,
+2025-11-13 18:21:00,2025-11-13,Thursday,November,18,User33,Subnetting ka fir bhi thoda bohot banna leta hu isp cidr mei dimag kharab ho raha,81,16,0,4.0
+2025-11-13 18:21:00,2025-11-13,Thursday,November,18,User33,Par bolunga congestion dekho bohot questions hei,48,7,0,
+2025-11-13 22:59:00,2025-11-13,Thursday,November,22,User33,Sure shot questions,19,3,0,
+2025-11-13 22:59:00,2025-11-13,Thursday,November,22,User33,Hamming dist,12,2,0,
+2025-11-13 23:03:00,2025-11-13,Thursday,November,23,User33,Efficiency calculation,22,2,0,
+2025-11-13 23:03:00,2025-11-13,Thursday,November,23,User29,Okie,4,1,0,0.0
+2025-11-13 23:03:00,2025-11-13,Thursday,November,23,User33,Ye final,8,2,0,0.0
+2025-11-13 23:04:00,2025-11-13,Thursday,November,23,User33,Pyq pattern or topper log se puchke,35,7,0,
+2025-11-13 23:04:00,2025-11-13,Thursday,November,23,User29,Mar ja tu,9,3,0,0.0
+2025-11-13 23:04:00,2025-11-13,Thursday,November,23,User29,Isse sure shot mere paas h,26,6,0,
+2025-11-13 23:04:00,2025-11-13,Thursday,November,23,User33,Sure shot numerical hei,23,4,0,0.0
+2025-11-13 23:04:00,2025-11-13,Thursday,November,23,User33,Thik hei,8,2,0,
+2025-11-13 23:04:00,2025-11-13,Thursday,November,23,User29,Sara numerical h bhai ye too,28,6,0,0.0
+2025-11-13 23:04:00,2025-11-13,Thursday,November,23,User29,Theory ayega k nhi,18,4,0,
+2025-11-13 23:04:00,2025-11-13,Thursday,November,23,User29,Kaha se pata kia,16,4,0,
+2025-11-13 23:05:00,2025-11-13,Thursday,November,23,User29,Jisne paper set kia h uska diya hua question,44,9,0,
+2025-11-15 11:28:00,2025-11-15,Saturday,November,11,User31,*Welcome to OutriX!* ,21,3,0,2183.0
+2025-11-15 14:54:00,2025-11-15,Saturday,November,14,User31,"*Dear Interns,* ",16,2,0,
+2025-11-15 17:39:00,2025-11-15,Saturday,November,17,User33,Kya tha yaar ye,15,4,0,165.0
+2025-11-15 17:41:00,2025-11-15,Saturday,November,17,User29,Paper,5,1,0,2.0
+2025-11-15 17:41:00,2025-11-15,Saturday,November,17,User33,Pura khatam ho chuka hu,23,5,0,0.0
+2025-11-15 17:47:00,2025-11-15,Saturday,November,17,User29,Barbaadi ki taraf ek aur step chale gye,39,8,0,6.0
+2025-11-16 21:25:00,2025-11-16,Sunday,November,21,User29,Muze khud n ata,15,4,0,
+2025-11-16 21:25:00,2025-11-16,Sunday,November,21,User29,Sikhna h,8,2,0,
+2025-11-16 21:28:00,2025-11-16,Sunday,November,21,User33,hogaya sikh liya,16,3,0,3.0
+2025-11-16 22:05:00,2025-11-16,Sunday,November,22,User33,Hamilton tsp kiya hei?,22,4,0,
+2025-11-16 23:10:00,2025-11-16,Sunday,November,23,User29,Ha,2,1,0,65.0
+2025-11-16 23:31:00,2025-11-16,Sunday,November,23,User33,Fractional knapsack ka algo bhejo na,36,6,0,21.0
+2025-11-17 10:20:00,2025-11-17,Monday,November,10,User33,Ye wala sahi hei,16,4,0,
+2025-11-17 10:20:00,2025-11-17,Monday,November,10,User33,Isme dekhna saara algo aagya?,29,5,0,
+2025-11-17 11:27:00,2025-11-17,Monday,November,11,User29,Maine kia h nhi h algo itna sara,32,8,0,67.0
+2025-11-17 11:28:00,2025-11-17,Monday,November,11,User33,Mene konsa kiya pura page leke jaunga,37,7,0,1.0
+2025-11-17 11:28:00,2025-11-17,Monday,November,11,User33,Mereko baas ye bata doh iske bahar ka toh koi algo nhi na,57,13,0,
+2025-11-17 11:29:00,2025-11-17,Monday,November,11,User29,Dekh lo ab,10,3,0,1.0
+2025-11-17 11:29:00,2025-11-17,Monday,November,11,User29,Huffman ,8,1,0,
+2025-11-17 11:30:00,2025-11-17,Monday,November,11,User33,Msg ka bhi algo hota hei😭,25,6,1,1.0
+2025-11-17 22:49:00,2025-11-17,Monday,November,22,User33,Notes wagera hoga toh bhejna,28,5,0,
+2025-11-18 01:08:00,2025-11-18,Tuesday,November,1,User29,Mera 1 number kaat liya,23,5,0,139.0
+2025-11-18 06:01:00,2025-11-18,Tuesday,November,6,User33,Aur inn tanisq log ka bada unka attendance bhi nhi hei,54,11,0,293.0
+2025-11-18 06:01:00,2025-11-18,Tuesday,November,6,User33,Mera bhi,8,2,0,
+2025-11-18 06:58:00,2025-11-18,Tuesday,November,6,User33,Suna kuch puchna hei call karu?,31,6,0,
+2025-11-18 08:31:00,2025-11-18,Tuesday,November,8,User33,"Sdlc (5) , diagram sab aur srs ( 10 mark ) , extreme programming(xp) ,  code review (short ques ) , verification and validation, black and white box,  cfg, cyclomatic complexity, levels of testing ( pura ) , why measuring software reliability difficult, types of failures , reliability metrics, reliability growth models , quality factors of software product, Iso , cmm - kpa jitna v hai, cocomo aur ei , ro numerical jo tha , software re engineering",450,78,0,
+2025-11-18 09:29:00,2025-11-18,Tuesday,November,9,User29,Ha,2,1,0,58.0
+2025-11-18 09:32:00,2025-11-18,Tuesday,November,9,User29,Kisne diya ?,12,3,0,
+2025-11-18 09:38:00,2025-11-18,Tuesday,November,9,User33,Ek topper ne diya,17,4,0,6.0
+2025-11-18 09:48:00,2025-11-18,Tuesday,November,9,User29,Noice,5,1,0,10.0
+2025-11-22 14:23:00,2025-11-22,Saturday,November,14,User29,3 bje se h,10,4,0,
+2025-11-22 14:23:00,2025-11-22,Saturday,November,14,User33,Ha😭😭,4,1,1,0.0
+2025-11-22 14:23:00,2025-11-22,Saturday,November,14,User29,Mera kar doge ?,15,4,0,0.0
+2025-11-22 14:24:00,2025-11-22,Saturday,November,14,User33,Yaar iss aacha mei kardeta baas ek baar call kar deti baas ek baar,66,14,0,1.0
+2025-11-22 14:35:00,2025-11-22,Saturday,November,14,User29,Turant call ki thi m harsh ko tum kaha the,42,10,0,11.0
+2025-11-22 14:35:00,2025-11-22,Saturday,November,14,User29,Isliye m doosro k nhi karna chahti,34,7,0,
+2025-11-22 14:35:00,2025-11-22,Saturday,November,14,User33,Mei wahi tha,12,3,0,0.0
+2025-11-22 14:35:00,2025-11-22,Saturday,November,14,User29,Sap m login nhi hota adha list nhi dikhaya,42,9,0,0.0
+2025-11-22 14:36:00,2025-11-22,Saturday,November,14,User33,Arre mei saab kar deta baas ek message de ti,44,10,0,1.0
+2025-11-22 14:36:00,2025-11-22,Saturday,November,14,User29,Too kar di m,12,4,0,0.0
+2025-11-22 14:36:00,2025-11-22,Saturday,November,14,User29,Uske priority list m tha,24,5,0,
+2025-11-22 14:36:00,2025-11-22,Saturday,November,14,User29,Meri roommate boli 44 acha h there is no other option,53,11,0,
+2025-11-22 14:37:00,2025-11-22,Saturday,November,14,User29,Choro,5,1,0,
+2025-11-22 14:37:00,2025-11-22,Saturday,November,14,User29,Jo milega le lungi,18,4,0,
+2025-11-22 14:38:00,2025-11-22,Saturday,November,14,User33,Karna hei na thumara?,21,4,0,1.0
+2025-11-22 14:38:00,2025-11-22,Saturday,November,14,User33,Id ,3,1,0,
+2025-11-22 14:38:00,2025-11-22,Saturday,November,14,User29,Jarurat nhi h,13,3,0,0.0
+2025-11-22 14:38:00,2025-11-22,Saturday,November,14,User29,Choro,5,1,0,
+2025-11-22 14:38:00,2025-11-22,Saturday,November,14,User33,Thik hei,8,2,0,0.0
+2025-11-22 14:38:00,2025-11-22,Saturday,November,14,User29,Hmm,3,1,0,0.0
+2025-11-22 23:15:00,2025-11-22,Saturday,November,23,User29,Happy Birthday 🎉,16,3,1,
+2025-11-22 23:26:00,2025-11-22,Saturday,November,23,User33,Thanks yaar 😁,13,3,1,11.0
+2025-11-23 18:38:00,2025-11-23,Sunday,November,18,User31,"*Hello Intern,* ",16,2,0,1152.0
+2025-11-23 23:00:00,2025-11-23,Sunday,November,23,User33,Classes kaab se hei?,20,4,0,262.0
+2025-11-23 23:17:00,2025-11-23,Sunday,November,23,User29,Pata nhi,8,2,0,17.0
+2025-11-24 17:20:00,2025-11-24,Monday,November,17,User34,"Dear Students,",14,2,0,1083.0
+2025-11-27 08:41:00,2025-11-27,Thursday,November,8,User33,https://www.instagram.com/fyndr.social?igsh=MTBjaDRmem5pZng0aA==,64,1,0,3801.0
+2025-11-27 13:24:00,2025-11-27,Thursday,November,13,User34,"Dear Students,",14,2,0,283.0
+2025-11-27 19:37:00,2025-11-27,Thursday,November,19,User29,"Sir, some of my friends have received their conference certificates, but I haven’t received mine yet. I just wanted to check if there is any issue or if it is still under process. Kindly let me know.",199,37,0,373.0
+2025-11-27 20:08:00,2025-11-27,Thursday,November,20,User30,Which conference ur paper was accepted?,39,6,0,31.0
+2025-11-27 20:09:00,2025-11-27,Thursday,November,20,User29,ICCTRDA 25 Springer <This message was edited>,45,7,0,1.0
+2025-11-27 20:10:00,2025-11-27,Thursday,November,20,User30,U will get it soon,18,5,0,1.0
+2025-11-30 11:48:00,2025-11-30,Sunday,November,11,User33,suna ese koi bot wagera ya website hei jo mere behalf mei video ya course pura dekh dala aur pura course khatam kar de esa kuch hota hei usko sirf mei apana login password du aur pura course khatam kar de,204,41,0,3818.0
+2025-11-30 12:52:00,2025-11-30,Sunday,November,12,User29,Pata nhi,8,2,0,64.0
+2025-12-02 17:19:00,2025-12-02,Tuesday,December,17,User34,Greetings from KIIT Kareer School!,34,5,0,3147.0
+2025-12-02 17:34:00,2025-12-02,Tuesday,December,17,User34,Greetings from KIIT Kareer School!,34,5,0,
+2025-12-02 23:11:00,2025-12-02,Tuesday,December,23,User29,Mere ml k notes except deep learning,36,7,0,337.0
+2025-12-02 23:30:00,2025-12-02,Tuesday,December,23,User33,Waah,4,1,0,19.0
+2025-12-03 12:07:00,2025-12-03,Wednesday,December,12,User31,"*Hello Intern,* ",16,2,0,757.0
+2025-12-04 18:24:00,2025-12-04,Thursday,December,18,User34,Greetings from KIIT Kareer School!,34,5,0,1817.0
+2025-12-04 18:24:00,2025-12-04,Thursday,December,18,User34,🔗 Join Groups: ,15,3,1,
+2025-12-04 20:03:00,2025-12-04,Thursday,December,20,User34,"Dear All,",9,2,0,
+2025-12-04 20:32:00,2025-12-04,Thursday,December,20,User34,"Dear Students,",14,2,0,
+2025-12-04 20:37:00,2025-12-04,Thursday,December,20,User34,https://chat.whatsapp.com/BIErM39vs668WJ5LW0rsz3,48,1,0,
+2025-12-06 08:18:00,2025-12-06,Saturday,December,8,User34,"Dear Students ,",15,3,0,
+2025-12-07 12:35:00,2025-12-07,Sunday,December,12,User26,Dear Mentees,12,2,0,1697.0
+2025-12-07 16:43:00,2025-12-07,Sunday,December,16,User26,Dear mentees.. ,15,2,0,
+2025-12-07 17:12:00,2025-12-07,Sunday,December,17,User26,Kindly meet me at the reception. Ground floor of 25G,52,10,0,
+2025-12-07 17:23:00,2025-12-07,Sunday,December,17,User26,I am waiting here,17,4,0,
+2025-12-07 21:23:00,2025-12-07,Sunday,December,21,User26,Dear Students ,14,2,0,
+2025-12-07 21:24:00,2025-12-07,Sunday,December,21,User29,Mam I have classes till 2 pm,28,7,0,1.0
+2025-12-07 21:50:00,2025-12-07,Sunday,December,21,User26,Then come 4-5 pm,16,4,0,26.0
+2025-12-10 16:08:00,2025-12-10,Wednesday,December,16,User34,"Dear Students,",14,2,0,3978.0
+2025-12-10 21:15:00,2025-12-10,Wednesday,December,21,User33,Extra kiit file hei?,20,4,0,307.0
+2025-12-10 21:16:00,2025-12-10,Wednesday,December,21,User29,nhi,3,1,0,1.0
+2025-12-11 10:43:00,2025-12-11,Thursday,December,10,User34,This form is now closed as all available slots have been booked.,64,12,0,807.0
+2025-12-11 16:43:00,2025-12-11,Thursday,December,16,User26,"If you don't follow the guidelines stepwise, your leave will be rejected",72,12,0,360.0
+2025-12-11 16:43:00,2025-12-11,Thursday,December,16,User26,"As the winter vacation is approaching, many students have started applying for leave, which requires my approval. I have created this WhatsApp group to keep you informed about the university guidelines that must be followed before hostel leave can be granted.",259,41,0,
+2025-12-11 19:30:00,2025-12-11,Thursday,December,19,User26,Dear mentees ..don't apply leave too early dates.,49,8,0,
+2025-12-11 21:40:00,2025-12-11,Thursday,December,21,User34,"Dear Students, ",15,2,0,130.0
+2025-12-13 14:39:00,2025-12-13,Saturday,December,14,User31,"Hello Intern, 👋",15,3,1,2459.0
+2025-12-14 14:00:00,2025-12-14,Sunday,December,14,User31,Reminder students 👆👆,20,3,1,
+2025-12-15 12:30:00,2025-12-15,Monday,December,12,User34,Greetings from KIIT Kareer School!,34,5,0,1350.0
+2025-12-15 12:30:00,2025-12-15,Monday,December,12,User34,1) Java with Spring and Spring Boot,35,7,0,
+2025-12-16 12:31:00,2025-12-16,Tuesday,December,12,User31,"*Hello Intern,* ",16,2,0,1441.0
+2025-12-17 20:18:00,2025-12-17,Wednesday,December,20,User26,In this prescribed format,25,4,0,1907.0
+2025-12-17 20:18:00,2025-12-17,Wednesday,December,20,User26,"Those who have applied and already it is approved, ignore this msg",66,12,0,
+2025-12-19 13:37:00,2025-12-19,Friday,December,13,User33,Class gaye the?,15,3,0,2479.0
+2025-12-19 13:39:00,2025-12-19,Friday,December,13,User29,Ha,2,1,0,2.0
+2025-12-19 13:39:00,2025-12-19,Friday,December,13,User29,Kuch nhi hua ai wala bhaga diya all present,43,9,0,
+2025-12-19 13:39:00,2025-12-19,Friday,December,13,User29,Nlp padhaya,11,2,0,
+2025-12-19 13:39:00,2025-12-19,Friday,December,13,User33,Baap re,7,2,0,0.0
+2025-12-19 13:39:00,2025-12-19,Friday,December,13,User33,Notes bhej dena,15,3,0,
+2025-12-19 13:39:00,2025-12-19,Friday,December,13,User33,Galat sangati,13,2,0,
+2025-12-19 13:40:00,2025-12-19,Friday,December,13,User33,.,1,1,0,
+2025-12-19 13:40:00,2025-12-19,Friday,December,13,User29,Shaam ko,8,2,0,0.0
+2025-12-19 13:40:00,2025-12-19,Friday,December,13,User33,Ok,2,1,0,0.0
+2025-12-19 13:40:00,2025-12-19,Friday,December,13,User29,Kambal m ghus gyi hu m abhi,27,7,0,0.0
+2025-12-21 13:08:00,2025-12-21,Sunday,December,13,User31,*Great News for Students!* 🌟,28,5,1,2848.0
+2025-12-22 14:12:00,2025-12-22,Monday,December,14,User33,ThAnku,6,1,0,1504.0
+2025-12-22 14:22:00,2025-12-22,Monday,December,14,User29,M bhool gyi thi aj yaad aya h,29,8,0,10.0
+2025-12-22 14:23:00,2025-12-22,Monday,December,14,User29,Tum Ghar chale gye ?,20,5,0,
+2025-12-22 14:25:00,2025-12-22,Monday,December,14,User33,Haa,3,1,0,2.0
+2025-12-22 14:26:00,2025-12-22,Monday,December,14,User29,Noiceeee,8,1,0,1.0
+2025-12-22 14:26:00,2025-12-22,Monday,December,14,User33,Aur fine bhi nhi laga,21,5,0,0.0
+2025-12-22 14:26:00,2025-12-22,Monday,December,14,User29,Noice,5,1,0,0.0
+2025-12-22 14:26:00,2025-12-22,Monday,December,14,User29,M station k bathi hu,20,5,0,
+2025-12-22 14:26:00,2025-12-22,Monday,December,14,User33,Aur pata ticket bhi nhi mila general ka ticket leke ac mei chala lagya,70,14,0,0.0
+2025-12-23 11:35:00,2025-12-23,Tuesday,December,11,User33,Thumhe iot wagera ata hei?,26,5,0,
+2025-12-23 11:36:00,2025-12-23,Tuesday,December,11,User33,Ya koi janti ho jisko iot aurdino wagera ata ho,47,10,0,
+2025-12-23 12:00:00,2025-12-23,Tuesday,December,12,User29,Nhi,3,1,0,24.0
+2025-12-23 12:01:00,2025-12-23,Tuesday,December,12,User29,Nhi,3,1,0,
+2025-12-23 12:20:00,2025-12-23,Tuesday,December,12,User33,Ok,2,1,0,19.0
+2025-12-27 08:14:00,2025-12-27,Saturday,December,8,User34,"We are pleased to inform you that the *UiPath Student Community KIIT*, under the *Department of Training and Placement, KIIT,* is providing all the students with an important opportunity to earn the *Official UiPath Agentic Automation Developer Associate Certification.*",270,39,0,5514.0
+2025-12-29 16:22:00,2025-12-29,Monday,December,16,User33,https://play.google.com/store/apps/details?id=com.kito,54,1,0,3368.0
+2025-12-29 16:42:00,2025-12-29,Monday,December,16,User29,?,1,1,0,20.0
+2025-12-29 16:43:00,2025-12-29,Monday,December,16,User33,Dost log ne banya hei promote karne bola hei,44,9,0,1.0
+2025-12-29 16:43:00,2025-12-29,Monday,December,16,User29,Okie,4,1,0,0.0
+2025-12-29 16:43:00,2025-12-29,Monday,December,16,User33,Use karo aacha hei,18,4,0,0.0
+2026-01-02 22:17:00,2026-01-02,Friday,January,22,User33,Suna na ml ya ai wale teacher ne kaha tha na ki notes check karega?,67,15,0,
+2026-01-02 22:54:00,2026-01-02,Friday,January,22,User29,Ai wala bola tha,16,4,0,37.0
+2026-01-02 22:54:00,2026-01-02,Friday,January,22,User29,Acha yaad dilaya,16,3,0,
+2026-01-02 22:54:00,2026-01-02,Friday,January,22,User33,Bhejdena yaar,13,2,0,0.0
+2026-01-02 22:54:00,2026-01-02,Friday,January,22,User29,Nhi too,7,2,0,0.0
+2026-01-02 22:55:00,2026-01-02,Friday,January,22,User29,Ghar m hu,9,3,0,
+2026-01-03 16:42:00,2026-01-03,Saturday,January,16,User29,Sir my friends have received their certificates . I have not received yet.,74,13,0,
+2026-01-03 16:55:00,2026-01-03,Saturday,January,16,User30,They r sending in phases,24,5,0,13.0
+2026-01-07 10:32:00,2026-01-07,Wednesday,January,10,User33,Suno na harsh bol na mere attendance laga de sun nhi raha hei😭😭,63,13,1,5377.0
+2026-01-07 11:11:00,2026-01-07,Wednesday,January,11,User29,Lag gya h,9,3,0,39.0
+2026-01-07 15:05:00,2026-01-07,Wednesday,January,15,User26,"Good afternoon, dear students.",30,4,0,234.0
+2026-01-08 22:25:00,2026-01-08,Thursday,January,22,User29,"Sir, I attempted the questions and showed NA though answers are correct. I have written  answers, and some of them are matching with the answer script. Still, I did not receive full marks. I have applied for rechecking, sir. Kindly please look into it once, as my grade may improve from E to O. Thank you.",305,56,0,1880.0
+2026-01-10 13:33:00,2026-01-10,Saturday,January,13,User33,Time mile toh notes bhej dena pls 🙏,35,8,1,2348.0
+2026-01-10 13:34:00,2026-01-10,Saturday,January,13,User33,Mtlb lav file wagera,20,4,0,
+2026-01-10 13:34:00,2026-01-10,Saturday,January,13,User33,Aur Monday ko jo bhi kuch karke anna hei wo bata doh,52,12,0,
+2026-01-10 13:46:00,2026-01-10,Saturday,January,13,User29,Lab file m linear regression karna h,36,7,0,12.0
+2026-01-10 13:46:00,2026-01-10,Saturday,January,13,User29,Kis cheez k,11,3,0,
+2026-01-10 13:46:00,2026-01-10,Saturday,January,13,User29,Lab manual diya tha n wo whatsapp grp m uska 2nd  day wala,58,13,0,
+2026-01-11 09:06:00,2026-01-11,Sunday,January,9,User33,Wo pura code bhi likhana hei ki kuch kuch?,42,9,0,1160.0
+2026-01-11 09:07:00,2026-01-11,Sunday,January,9,User33,Aur iske pichle lab ka bhi karna hei kya jisme nhi aya tha?,59,13,0,
+2026-01-11 09:10:00,2026-01-11,Sunday,January,9,User29,Code likhna h output chipkana h ya too khudse draw karna h,58,12,0,3.0
+2026-01-11 09:10:00,2026-01-11,Sunday,January,9,User29,Ha lab manual m jaha se h waha se likhna h do din k,51,14,0,
+2026-01-11 17:57:00,2026-01-11,Sunday,January,17,User29,Last day k h,12,4,0,
+2026-01-11 17:57:00,2026-01-11,Sunday,January,17,User29,Code and output,15,3,0,
+2026-01-11 17:58:00,2026-01-11,Sunday,January,17,User29,Uske pichle din k ye likhna h,29,7,0,
+2026-01-11 17:59:00,2026-01-11,Sunday,January,17,User29,Y 1st lab k print karana h,26,7,0,
+2026-01-11 17:59:00,2026-01-11,Sunday,January,17,User29,Bss ho gya,10,3,0,
+2026-01-11 17:59:00,2026-01-11,Sunday,January,17,User33,Thanku,6,1,0,0.0
+2026-01-11 20:12:00,2026-01-11,Sunday,January,20,User26,As the mentor–mentee list has been revised and updated recently. ,65,10,0,133.0
+2026-01-11 20:15:00,2026-01-11,Sunday,January,20,User20,Thank you so much Ma'am,23,5,0,3.0
+2026-01-12 09:19:00,2026-01-12,Monday,January,9,User1,ML ka class ajj hai?,20,5,0,784.0
+2026-01-12 12:39:00,2026-01-12,Monday,January,12,User34,"Dear Students,",14,2,0,200.0
+2026-01-13 20:06:00,2026-01-13,Tuesday,January,20,User30,Sure.,5,1,0,1887.0
+2026-01-13 21:15:00,2026-01-13,Tuesday,January,21,User30,https://chat.whatsapp.com/K8bhWT51HCI738zEW7aPFm,48,1,0,
+2026-01-13 21:15:00,2026-01-13,Tuesday,January,21,User30,Transaction slip ?,18,3,0,
+2026-01-13 21:16:00,2026-01-13,Tuesday,January,21,User30,Join this grp,13,3,0,
+2026-01-14 16:31:00,2026-01-14,Wednesday,January,16,User4,aj koi exam tha kya?,20,5,0,1155.0
+2026-01-14 17:21:00,2026-01-14,Wednesday,January,17,User5,Koi bhejo bhai photo,20,4,0,50.0
+2026-01-14 17:21:00,2026-01-14,Wednesday,January,17,User5,Question ka,11,2,0,
+2026-01-14 17:25:00,2026-01-14,Wednesday,January,17,User4,Hardcopy submit karna ha?,25,4,0,4.0
+2026-01-14 17:28:00,2026-01-14,Wednesday,January,17,User5,Google classroom mai karna hai,30,5,0,3.0
+2026-01-14 20:39:00,2026-01-14,Wednesday,January,20,User33,Baas itna bata doh psudo code likhna rehta hei ki pura python code,66,13,0,191.0
+2026-01-14 21:26:00,2026-01-14,Wednesday,January,21,User29,Pseudo,6,1,0,47.0
+2026-01-14 21:27:00,2026-01-14,Wednesday,January,21,User33,Input output bhi?,17,3,0,1.0
+2026-01-14 21:30:00,2026-01-14,Wednesday,January,21,User29,Ha,2,1,0,3.0
+2026-01-14 21:39:00,2026-01-14,Wednesday,January,21,User33,Aur last thing baas fir disturb nhi karunga ye pseudo code likhna hei na test mei?,82,16,0,9.0
+2026-01-14 21:44:00,2026-01-14,Wednesday,January,21,User29,Ha,2,1,0,5.0
+2026-01-14 22:18:00,2026-01-14,Wednesday,January,22,User6,Bhai last ka table or final graph photo bhej sakta ha kya,57,12,0,34.0
+2026-01-14 23:16:00,2026-01-14,Wednesday,January,23,User7,Kisika complete hua aaj wala?,29,5,0,58.0
+2026-01-15 08:25:00,2026-01-15,Thursday,January,8,User33,Follow the FRESHJOB'S channel on WhatsApp: https://whatsapp.com/channel/0029VaeiA1lFXUub4WH8n03X,96,7,0,549.0
+2026-01-16 08:28:00,2026-01-16,Friday,January,8,User33,Aaj test hei kya nlp mei?,25,6,0,
+2026-01-16 08:35:00,2026-01-16,Friday,January,8,User29,Nhi,3,1,0,7.0
+2026-01-16 21:26:00,2026-01-16,Friday,January,21,User33,Ml mei derivation wagera padhna hei kya?,40,7,0,771.0
+2026-01-16 21:44:00,2026-01-16,Friday,January,21,User29,Bole the 5 short question aur 3 numerical hoga,46,9,0,18.0
+2026-01-16 21:44:00,2026-01-16,Friday,January,21,User29,Pata nhi sir kuch bole nhi h,28,7,0,
+2026-01-17 20:53:00,2026-01-17,Saturday,January,20,User33,Iske baad ka agar likha hei toh bhejna,38,8,0,1389.0
+2026-01-18 18:30:00,2026-01-18,Sunday,January,18,User33,Lab mei jo likhna hei and output ka pdf,39,9,0,
+2026-01-18 21:33:00,2026-01-18,Sunday,January,21,User33,Pls apne chote bhai madad kar doh baas output file bhej doh pls nhi karunga fir disturb 😭🙏,90,18,1,
+2026-01-18 22:16:00,2026-01-18,Sunday,January,22,User33,Thanku,6,1,0,
+2026-01-19 20:28:00,2026-01-19,Monday,January,20,User33,Baas iske baad ka bhej do,25,6,0,
+2026-01-20 13:31:00,2026-01-20,Tuesday,January,13,User34,KIIT University is inviting you to a scheduled Zoom meeting.,60,10,0,1023.0
+2026-01-20 21:19:00,2026-01-20,Tuesday,January,21,User29,Ata score dekho resume.com m,28,5,0,468.0
+2026-01-20 21:19:00,2026-01-20,Tuesday,January,21,User29,Wo bata dega kaha sahi karna h,30,7,0,
+2026-01-20 21:20:00,2026-01-20,Tuesday,January,21,User29,Dekh k to thik lag raha h,25,7,0,
+2026-01-20 21:38:00,2026-01-20,Tuesday,January,21,User29,Dekho kaha kya correct karna h,30,6,0,
+2026-01-20 21:39:00,2026-01-20,Tuesday,January,21,User29,Waise waise karte jao,21,4,0,
+2026-01-22 15:13:00,2026-01-22,Thursday,January,15,User36,Reminder:,9,1,0,2494.0
+2026-01-22 16:58:00,2026-01-22,Thursday,January,16,User34,Expert Talk | Entrepreneurship & Start-ups,42,6,0,105.0
+2026-01-24 06:07:00,2026-01-24,Saturday,January,6,User34,"Dear Students,",14,2,0,
+2026-01-25 17:34:00,2026-01-25,Sunday,January,17,User36,PwC AC india launch program  registration  link is now opening. It will close sharp 9.00 pm today (25th jan2026),112,19,0,2127.0
+2026-01-28 14:23:00,2026-01-28,Wednesday,January,14,User8,Aaj class hogi kya?,19,4,0,4129.0
+2026-01-28 14:40:00,2026-01-28,Wednesday,January,14,User9,Koi sir se puch lo,18,5,0,17.0
+2026-01-28 21:22:00,2026-01-28,Wednesday,January,21,User29,A* algorithm last class k,25,5,0,402.0
+2026-01-30 10:33:00,2026-01-30,Friday,January,10,User10,HMC midsem syllabus Kisi Ko pata hai??,38,7,0,2231.0
+2026-01-30 10:34:00,2026-01-30,Friday,January,10,User11,First 2 unit,12,3,0,1.0
+2026-01-30 10:34:00,2026-01-30,Friday,January,10,User10,Thanks,6,1,0,0.0
+2026-01-30 18:10:00,2026-01-30,Friday,January,18,User12,mam ka number hai toh please bhejdo,35,7,0,456.0
+2026-01-30 19:00:00,2026-01-30,Friday,January,19,User13,+91 80933 91827,15,3,0,50.0
+2026-01-30 23:00:00,2026-01-30,Friday,January,23,User33,Suna pls nlp ka notes bhej dena ,32,7,0,240.0
+2026-01-31 19:50:00,2026-01-31,Saturday,January,19,User29,"Sir, may I know the current progress of my research paper ?",59,12,0,1250.0
+2026-01-31 20:15:00,2026-01-31,Saturday,January,20,User30,Its under publication.,22,3,0,25.0
+2026-02-01 15:48:00,2026-02-01,Sunday,February,15,User14,Lesson plan hai?,16,3,0,1173.0
+2026-02-01 15:48:00,2026-02-01,Sunday,February,15,User14,Aur midsem me kon sa topic tak aa raha?,39,9,0,
+2026-02-01 15:48:00,2026-02-01,Sunday,February,15,User14,Course handouts share kro koi,29,5,0,
+2026-02-02 11:12:00,2026-02-02,Monday,February,11,User15,If Anyone has pyq then please send,34,7,0,1164.0
+2026-02-02 21:15:00,2026-02-02,Monday,February,21,User33,Suna ml mei derivation and proof padhogi toh ek page likh ke photo bhej dogi?,77,15,0,603.0
+2026-02-03 22:01:00,2026-02-03,Tuesday,February,22,User29,Abhi aur trauma do tum,22,5,0,1486.0
+2026-02-04 16:55:00,2026-02-04,Wednesday,February,16,User33,Simulated anneling taak hei na syllabus,39,6,0,1134.0
+2026-02-04 17:48:00,2026-02-04,Wednesday,February,17,User29,Ha,2,1,0,53.0
+2026-02-04 23:06:00,2026-02-04,Wednesday,February,23,User33,Hei kisi ke notes mei ye manhattan?,35,7,0,318.0
+2026-02-04 23:06:00,2026-02-04,Wednesday,February,23,User33,Suna ye manhattan wala kisi ke notes mei nhi hei toh haar baar puch ku raha hei,79,17,0,
+2026-02-05 00:39:00,2026-02-05,Thursday,February,0,User29,Ye too muze nhi pata h,22,6,0,93.0
+2026-02-05 00:43:00,2026-02-05,Thursday,February,0,User29,Answer too same aa rha,22,5,0,
+2026-02-05 13:45:00,2026-02-05,Thursday,February,13,User36,Reminder :,10,2,0,782.0
+2026-02-05 16:09:00,2026-02-05,Thursday,February,16,User33,Suna derivation and proof wagera thoda saab ek page ho sake de dena,67,13,0,144.0
+2026-02-05 16:26:00,2026-02-05,Thursday,February,16,User29,Hai to sab pdf m,16,5,0,17.0
+2026-02-05 16:31:00,2026-02-05,Thursday,February,16,User33,Kuch samaj mei nhi aa raha wo,29,7,0,5.0
+2026-02-05 16:38:00,2026-02-05,Thursday,February,16,User29,Ye,2,1,0,7.0
+2026-02-05 16:38:00,2026-02-05,Thursday,February,16,User29,Tumne jo diya,13,3,0,
+2026-02-05 16:40:00,2026-02-05,Thursday,February,16,User33,Isme saab kabar nhi kisi ne bola,32,7,0,2.0
+2026-02-05 17:56:00,2026-02-05,Thursday,February,17,User16,HMC paper!!,11,2,0,76.0
+2026-02-05 21:17:00,2026-02-05,Thursday,February,21,User33,Ye oao oaa wala bata dona,25,6,0,201.0
+2026-02-05 21:28:00,2026-02-05,Thursday,February,21,User29,M svm tak pohochi h nhi hu,26,7,0,11.0
+2026-02-05 23:01:00,2026-02-05,Thursday,February,23,User29,Kuch imp questions pata h,25,5,0,
+2026-02-05 23:02:00,2026-02-05,Thursday,February,23,User33,Sabhi imp hei,13,3,0,1.0
+2026-02-05 23:02:00,2026-02-05,Thursday,February,23,User33,Possible Numericals,19,2,0,
+2026-02-05 23:09:00,2026-02-05,Thursday,February,23,User29,Whi bhai sabse kuch n kuch aa rha h,35,9,0,7.0
+2026-02-05 23:11:00,2026-02-05,Thursday,February,23,User33,Dekho naive knn hard margin soft margin svm ki ek theory aur sayad decesion tree inta paka hei,94,18,0,2.0
+2026-02-05 23:24:00,2026-02-05,Thursday,February,23,User29,Okie,4,1,0,13.0
+2026-02-06 11:27:00,2026-02-06,Friday,February,11,User33,Abe ye micro macro syllabus mei tha?,36,7,0,723.0
+2026-02-06 11:36:00,2026-02-06,Friday,February,11,User29,Kaunsa bhai,11,2,0,9.0
+2026-02-06 11:36:00,2026-02-06,Friday,February,11,User33,Arre wo confusion matrix wala,29,5,0,0.0
+2026-02-06 11:37:00,2026-02-06,Friday,February,11,User33,Wese mene kher chaapa toh hei par sahi hei ki galat pata nhi,60,13,0,
+2026-02-06 11:49:00,2026-02-06,Friday,February,11,User29,Maine attempt nhi kia dekh k h chor dia,39,9,0,12.0
+2026-02-06 13:42:00,2026-02-06,Friday,February,13,User33,"Baas pls nlp ka notes bhej do pls mers paas aur koi source nhi hei nlp ka , baki saab mereko milta hei mei bhej deta hu lekin nlp ka kuch bhi content nhi hei mere paas pls bhej doh 😣",182,41,1,113.0
+2026-02-06 15:35:00,2026-02-06,Friday,February,15,User36,"Dear Student,",13,2,0,113.0
+2026-02-06 16:06:00,2026-02-06,Friday,February,16,User29,Bhai sambit k pdf chap lo mind m,32,8,0,31.0
+2026-02-06 16:06:00,2026-02-06,Friday,February,16,User29,Sach bata rhi hu,16,4,0,
+2026-02-06 16:06:00,2026-02-06,Friday,February,16,User29,Pyq b same question aya h same to same,38,9,0,
+2026-02-06 16:09:00,2026-02-06,Friday,February,16,User33,Usi ke pdf se usi ka assignment nhi samaj mei aa raha,53,12,0,3.0
+2026-02-06 16:09:00,2026-02-06,Friday,February,16,User33,Arre numerical kar lunga mujhe therory wale question kuch pale nhi par raha khas kar uske assignment ka,103,18,0,
+2026-02-06 23:01:00,2026-02-06,Friday,February,23,User33,Ye sentimental analysis se kya ques banta hei?,46,8,0,
+2026-02-06 23:03:00,2026-02-06,Friday,February,23,User29,Naive bayes k jo h wo,21,6,0,2.0
+2026-02-06 23:03:00,2026-02-06,Friday,February,23,User33,Mtlb naive bayes hei kya wo,27,6,0,0.0
+2026-02-08 09:41:00,2026-02-08,Sunday,February,9,User17,https://chat.whatsapp.com/ILqHrUKGjYC2FxH06oMXBk?mode=gi_t,58,1,0,2078.0
+2026-02-10 12:59:00,2026-02-10,Tuesday,February,12,User2,*Follow this link to Join the WhatsApp Group* :*https://chat.whatsapp.com/CsWvYJtfEjnA6NERJUhFIN?mode=gi_t*,107,9,0,3078.0
+2026-02-10 23:43:00,2026-02-10,Tuesday,February,23,User2,*Follow this link to Join the WhatsApp Group* :*https://chat.whatsapp.com/CsWvYJtfEjnA6NERJUhFIN?mode=gi_t*,107,9,0,
+2026-02-12 20:14:00,2026-02-12,Thursday,February,20,User38,@⁨~Anshu Kumar⁩ sir I have not received any login credentials as mentioned in mail from the sap.com,99,17,0,2671.0
+2026-02-12 20:15:00,2026-02-12,Thursday,February,20,User39,Same here sir,13,3,0,1.0
+2026-02-12 20:15:00,2026-02-12,Thursday,February,20,User40,Same,4,1,0,0.0
+2026-02-12 20:15:00,2026-02-12,Thursday,February,20,User41,same here sir,13,3,0,0.0
+2026-02-12 20:16:00,2026-02-12,Thursday,February,20,User48,Same sir,8,2,0,1.0
+2026-02-12 20:16:00,2026-02-12,Thursday,February,20,User42,Same here sir,13,3,0,0.0
+2026-02-12 20:16:00,2026-02-12,Thursday,February,20,User43,Same here sir,13,3,0,0.0
+2026-02-12 20:16:00,2026-02-12,Thursday,February,20,User44,Same here sir,13,3,0,0.0
+2026-02-12 20:16:00,2026-02-12,Thursday,February,20,User47,Same here sir,13,3,0,0.0
+2026-02-12 20:16:00,2026-02-12,Thursday,February,20,User46,@⁨~Anshu Kumar⁩ Sir I've one more concern issue ,48,8,0,0.0
+2026-02-12 20:16:00,2026-02-12,Thursday,February,20,User45,same,4,1,0,0.0
+2026-02-12 20:17:00,2026-02-12,Thursday,February,20,User49,Same sir,8,2,0,1.0
+2026-02-12 20:18:00,2026-02-12,Thursday,February,20,User50,Same here sir,13,3,0,1.0
+2026-02-12 20:19:00,2026-02-12,Thursday,February,20,User52,Same sir,8,2,0,1.0
+2026-02-12 20:19:00,2026-02-12,Thursday,February,20,User53,Same sir,8,2,0,0.0
+2026-02-12 20:19:00,2026-02-12,Thursday,February,20,User51,Same here sir,13,3,0,0.0
+2026-02-12 20:20:00,2026-02-12,Thursday,February,20,User56,Same here sir,13,3,0,1.0
+2026-02-12 20:20:00,2026-02-12,Thursday,February,20,User55,Yes sir,7,2,0,0.0
+2026-02-12 20:20:00,2026-02-12,Thursday,February,20,User54,Same sir,8,2,0,0.0
+2026-02-12 20:21:00,2026-02-12,Thursday,February,20,User58,Yes sir same concern,20,4,0,1.0
+2026-02-12 20:21:00,2026-02-12,Thursday,February,20,User57,same here sir,13,3,0,0.0
+2026-02-12 20:22:00,2026-02-12,Thursday,February,20,User49,Sir are we supposed to receive pre set credentials or create the account which  I have done .?,94,18,0,1.0
+2026-02-12 20:24:00,2026-02-12,Thursday,February,20,User59,Same here sir,13,3,0,2.0
+2026-02-12 20:25:00,2026-02-12,Thursday,February,20,User60,Same here sir,13,3,0,1.0
+2026-02-12 20:26:00,2026-02-12,Thursday,February,20,User61,Same here sir,13,3,0,1.0
+2026-02-12 20:28:00,2026-02-12,Thursday,February,20,User62,@⁨~Anshu Kumar⁩ sir we are our elective class from 4:30 to 6:00 Pm Wednesday and Friday. In the mail it has been mentioned that class will be from 3:00 Pm to 5:00 Everyday then sir how is it possible to attend both the classes at the same time,243,48,0,2.0
+2026-02-12 20:29:00,2026-02-12,Thursday,February,20,User63,Same issue on this side too,27,6,0,1.0
+2026-02-12 20:31:00,2026-02-12,Thursday,February,20,User64,Sir everyone is facing same kind of problem. And Tommorow our elective class is also there from 4:30 to 6.,106,20,0,2.0
+2026-02-12 20:32:00,2026-02-12,Thursday,February,20,User64,How we will attend the Tomorrow's class?,40,7,0,
+2026-02-12 20:40:00,2026-02-12,Thursday,February,20,User65,"Good evening sir, ",18,3,0,8.0
+2026-02-12 20:41:00,2026-02-12,Thursday,February,20,User66,Yes sir kindly clarify ,23,4,0,1.0
+2026-02-12 20:42:00,2026-02-12,Thursday,February,20,User67,"Good evening sir, ",18,3,0,1.0
+2026-02-12 20:46:00,2026-02-12,Thursday,February,20,User68,Kindly join the WhatsApp group for the Open Industry Elective course you have selected using the link provided below. The class timings mentioned therein will be effective from 13th February onwards. The course content has also been attached for your reference.,261,41,0,4.0
+2026-02-12 20:47:00,2026-02-12,Thursday,February,20,User69,Yes sir,7,2,0,1.0
+2026-02-12 20:47:00,2026-02-12,Thursday,February,20,User70,I'm sure sir recieved all our messages. Please give him time to respond,71,13,0,0.0
+2026-02-12 20:48:00,2026-02-12,Thursday,February,20,User71,"Good evening sir,",17,3,0,1.0
+2026-02-12 21:02:00,2026-02-12,Thursday,February,21,User72,Also there's no course content as well.,39,7,0,14.0
+2026-02-12 21:03:00,2026-02-12,Thursday,February,21,User49,Sir I have created an account as I did not know I was supposed to receive preset credentials would that be a problem?,117,23,0,1.0
+2026-02-12 21:11:00,2026-02-12,Thursday,February,21,User48,Yes sir,7,2,0,8.0
+2026-02-12 21:21:00,2026-02-12,Thursday,February,21,User73,yes sir,7,2,0,10.0
+2026-02-12 21:25:00,2026-02-12,Thursday,February,21,User74,Yes sir,7,2,0,4.0
+2026-02-12 21:27:00,2026-02-12,Thursday,February,21,User75,Yes sir,7,2,0,2.0
+2026-02-12 21:28:00,2026-02-12,Thursday,February,21,User76,yes sir,7,2,0,1.0
+2026-02-12 21:28:00,2026-02-12,Thursday,February,21,User77,yes sir,7,2,0,0.0
+2026-02-12 21:29:00,2026-02-12,Thursday,February,21,User78,Yes sir,7,2,0,1.0
+2026-02-12 21:47:00,2026-02-12,Thursday,February,21,User36,It is noticed that half of the students registered  for Deloitte Hacksplosion haven't completed the Round 0 brand Quiz which is part of the Registration phase.,159,26,0,18.0
+2026-02-12 22:01:00,2026-02-12,Thursday,February,22,User79,Where are we provided with the login details for SAP,52,10,0,14.0
+2026-02-12 22:05:00,2026-02-12,Thursday,February,22,User80,??,2,1,0,4.0
+2026-02-12 22:48:00,2026-02-12,Thursday,February,22,User81,I haven't received any  learning login link,43,7,0,43.0
+2026-02-12 22:49:00,2026-02-12,Thursday,February,22,User82,"So guys, if you haven't received the SAP login link, we'll check with the SAP team and update the group. Don't worry. For any issues, meet me at 15A, Block 2nd floor...",168,32,0,1.0
+2026-02-12 22:51:00,2026-02-12,Thursday,February,22,User83,Yes sir,7,2,0,2.0
+2026-02-12 22:51:00,2026-02-12,Thursday,February,22,User41,And sir what about the students having both electives?,54,9,0,0.0
+2026-02-12 22:52:00,2026-02-12,Thursday,February,22,User84,Yes sir as our classes will clash on Wed and friday,51,11,0,1.0
+2026-02-12 22:53:00,2026-02-12,Thursday,February,22,User86,Yes sir,7,2,0,1.0
+2026-02-12 22:53:00,2026-02-12,Thursday,February,22,User85,Yes Sir,7,2,0,0.0
+2026-02-12 22:54:00,2026-02-12,Thursday,February,22,User87,Yes sir,7,2,0,1.0
+2026-02-12 22:55:00,2026-02-12,Thursday,February,22,User60,Yes sir,7,2,0,1.0
+2026-02-12 22:55:00,2026-02-12,Thursday,February,22,User88,Yes sir,7,2,0,0.0
+2026-02-13 07:43:00,2026-02-13,Friday,February,7,User82,"All classes will be in virtual mode, the link will be shared today.",67,13,0,528.0
+2026-02-13 07:44:00,2026-02-13,Friday,February,7,User89,and what about the clashing time with our normal open elective,62,11,0,1.0
+2026-02-13 07:45:00,2026-02-13,Friday,February,7,User90,sir what about the time clash for those of us who've opted for both?,68,14,0,1.0
+2026-02-13 07:45:00,2026-02-13,Friday,February,7,User63,yes sir kindly advise on this issue,35,7,0,0.0
+2026-02-13 08:08:00,2026-02-13,Friday,February,8,User91,Sir usi time me hamari main 3 credit waali open elective ki bhi classes hai.,76,15,0,23.0
+2026-02-13 08:33:00,2026-02-13,Friday,February,8,User92,Sir kindly reply with a solution to the clashing time for both the electives,76,14,0,25.0
+2026-02-13 08:46:00,2026-02-13,Friday,February,8,User11,Sir can I swap my elective now??,32,7,0,13.0
+2026-02-13 08:51:00,2026-02-13,Friday,February,8,User93,good morning sir,16,3,0,5.0
+2026-02-13 08:52:00,2026-02-13,Friday,February,8,User95,Same sir i also have not received any credentials,49,9,0,1.0
+2026-02-13 08:52:00,2026-02-13,Friday,February,8,User94,I have also not received any credentials from sap through mail,62,11,0,0.0
+2026-02-13 08:53:00,2026-02-13,Friday,February,8,User96,Same,4,1,0,1.0
+2026-02-13 08:56:00,2026-02-13,Friday,February,8,User97,Same sir,8,2,0,3.0
+2026-02-13 08:56:00,2026-02-13,Friday,February,8,User87,Same sir,8,2,0,0.0
+2026-02-13 08:59:00,2026-02-13,Friday,February,8,User98,Same concern sir,16,3,0,3.0
+2026-02-13 09:01:00,2026-02-13,Friday,February,9,User49,Yes sir haven't received the credentials yet,44,7,0,2.0
+2026-02-13 09:02:00,2026-02-13,Friday,February,9,User88,I have also not received any credentials sir.,45,8,0,1.0
+2026-02-13 09:04:00,2026-02-13,Friday,February,9,User99,Same sir,8,2,0,2.0
+2026-02-13 09:08:00,2026-02-13,Friday,February,9,User24,Same sir,8,2,0,4.0
+2026-02-13 09:09:00,2026-02-13,Friday,February,9,User100,Same here sir.,14,3,0,1.0
+2026-02-13 09:10:00,2026-02-13,Friday,February,9,User101,Same sir,8,2,0,1.0
+2026-02-13 09:11:00,2026-02-13,Friday,February,9,User58,Same here sir,13,3,0,1.0
+2026-02-13 09:19:00,2026-02-13,Friday,February,9,User102,Same here sir,13,3,0,8.0
+2026-02-13 09:20:00,2026-02-13,Friday,February,9,User104,Same here sir,13,3,0,1.0
+2026-02-13 09:20:00,2026-02-13,Friday,February,9,User103,Same here sir,13,3,0,0.0
+2026-02-13 09:20:00,2026-02-13,Friday,February,9,User69,Same here,9,2,0,0.0
+2026-02-13 09:33:00,2026-02-13,Friday,February,9,User105,Same issue sir,14,3,0,13.0
+2026-02-13 09:45:00,2026-02-13,Friday,February,9,User107,Same issue sir <This message was edited>,40,7,0,12.0
+2026-02-13 09:45:00,2026-02-13,Friday,February,9,User106,Same sir,8,2,0,0.0
+2026-02-13 09:46:00,2026-02-13,Friday,February,9,User108,Same Sir,8,2,0,1.0
+2026-02-13 12:08:00,2026-02-13,Friday,February,12,User92,@⁨~Anshu Kumar⁩ sir please respond as attendance for both the classes are important <This message was edited>,109,17,0,142.0
+2026-02-13 12:10:00,2026-02-13,Friday,February,12,User55,"Yes sir, please",15,3,0,2.0
+2026-02-13 12:10:00,2026-02-13,Friday,February,12,User24,Yes Sir please!,15,3,0,0.0
+2026-02-13 12:10:00,2026-02-13,Friday,February,12,User110,Yes sir,7,2,0,0.0
+2026-02-13 12:10:00,2026-02-13,Friday,February,12,User109,Sir kindly reply with a solution to the clashing time for both the electives and classes too,92,17,0,0.0
+2026-02-13 12:11:00,2026-02-13,Friday,February,12,User60,Yes sir please,14,3,0,1.0
+2026-02-13 12:11:00,2026-02-13,Friday,February,12,User54,Yes sir,7,2,0,0.0
+2026-02-13 12:11:00,2026-02-13,Friday,February,12,User111,Yes sir,7,2,0,0.0
+2026-02-13 12:11:00,2026-02-13,Friday,February,12,User112,Yes sir🙏,8,2,1,0.0
+2026-02-13 12:13:00,2026-02-13,Friday,February,12,User83,Yes sir,7,2,0,2.0
+2026-02-13 12:14:00,2026-02-13,Friday,February,12,User49,Yes about the time collision and about the login credentials too .,66,12,0,1.0
+2026-02-13 12:14:00,2026-02-13,Friday,February,12,User113,Yes sir🙏🏻,9,2,1,0.0
+2026-02-13 12:15:00,2026-02-13,Friday,February,12,User114,Ye sir,6,2,0,1.0
+2026-02-13 12:57:00,2026-02-13,Friday,February,12,User115,Sir please update us about the class schedule collision and login info mail,75,13,0,42.0
+2026-02-13 12:59:00,2026-02-13,Friday,February,12,User116,Yes sir,7,2,0,2.0
+2026-02-13 13:00:00,2026-02-13,Friday,February,13,User117,Ok,2,1,0,1.0
+2026-02-13 13:24:00,2026-02-13,Friday,February,13,User105,Otherwise attendance will be at stake <This message was edited>,63,10,0,24.0
+2026-02-13 13:24:00,2026-02-13,Friday,February,13,User105,Sir kindly reply,16,3,0,
+2026-02-13 13:29:00,2026-02-13,Friday,February,13,User105,And sir what about the login details?,37,7,0,
+2026-02-13 13:29:00,2026-02-13,Friday,February,13,User82,"Dear Students,",14,2,0,0.0
+2026-02-13 13:30:00,2026-02-13,Friday,February,13,User111,Sir the login credentials ?,27,5,0,1.0
+2026-02-13 13:31:00,2026-02-13,Friday,February,13,User119,And the login credentials sir ?,31,6,0,1.0
+2026-02-13 13:31:00,2026-02-13,Friday,February,13,User118,Sir could you us some buffer time our classes end at 6 so we have to walk back to our hostels,93,21,0,0.0
+2026-02-13 13:32:00,2026-02-13,Friday,February,13,User120,Yes sir,7,2,0,1.0
+2026-02-13 13:32:00,2026-02-13,Friday,February,13,User121,Yes sir,7,2,0,0.0
+2026-02-13 13:32:00,2026-02-13,Friday,February,13,User107,Yes sir,7,2,0,0.0
+2026-02-13 13:33:00,2026-02-13,Friday,February,13,User38,Sir if you kindly provide day wise class timings it will be very helpful,72,14,0,1.0
+2026-02-13 13:34:00,2026-02-13,Friday,February,13,User41,"Sir, I wanted to bring to your notice that the current buffer time is quite difficult for day scholars, as commuting back home takes considerable time. I kindly request you to please take this into consideration.",212,36,0,1.0
+2026-02-13 13:35:00,2026-02-13,Friday,February,13,User123,sir my class gets over at 6pm,29,7,0,1.0
+2026-02-13 13:35:00,2026-02-13,Friday,February,13,User64,Sir our elective timming is from 4:30 to 6 so how we  will attend from 6 to 7:30,80,18,0,0.0
+2026-02-13 13:35:00,2026-02-13,Friday,February,13,User122,YES PLEASE LOOK INTO THIS,25,5,0,0.0
+2026-02-13 13:36:00,2026-02-13,Friday,February,13,User124,Yes sir same,12,3,0,1.0
+2026-02-13 13:38:00,2026-02-13,Friday,February,13,User88,Yes sir ?,9,3,0,2.0
+2026-02-13 13:39:00,2026-02-13,Friday,February,13,User49,Yes sir please consider,23,4,0,1.0
+2026-02-13 13:39:00,2026-02-13,Friday,February,13,User125,"Yes sir, please consider",24,4,0,0.0
+2026-02-13 13:40:00,2026-02-13,Friday,February,13,User126,Yes sir,7,2,0,1.0
+2026-02-13 13:40:00,2026-02-13,Friday,February,13,User92,"With all due respect, sir, I would like to request that you review the schedule to avoid conflicts, as several students have elected for both electives",151,26,0,0.0
+2026-02-13 13:40:00,2026-02-13,Friday,February,13,User29,"Dear Students,",14,2,0,0.0
+2026-02-13 13:40:00,2026-02-13,Friday,February,13,User29,So jao,6,2,0,
+2026-02-13 13:40:00,2026-02-13,Friday,February,13,User33,6 bheje toh law khatam hota hei fir class jaan lenge kya!,57,12,0,0.0
+2026-02-13 13:41:00,2026-02-13,Friday,February,13,User128,+1,2,1,0,1.0
+2026-02-13 13:41:00,2026-02-13,Friday,February,13,User127,"No, i have classes on other days also.... So this will not work for everyone",76,15,0,0.0
+2026-02-13 13:41:00,2026-02-13,Friday,February,13,User88,Yes sir,7,2,0,0.0
+2026-02-13 13:42:00,2026-02-13,Friday,February,13,User57,yes sir,7,2,0,1.0
+2026-02-13 13:49:00,2026-02-13,Friday,February,13,User46,Kaunsi lab ?,12,3,0,7.0
+2026-02-13 13:49:00,2026-02-13,Friday,February,13,User127,Labs hai,8,2,0,0.0
+2026-02-13 13:49:00,2026-02-13,Friday,February,13,User46,Kaunsi classes bhai? 3rd year m toh saari classes 2 tk khtm ho jati h,69,15,0,0.0
+2026-02-13 13:49:00,2026-02-13,Friday,February,13,User129,Iss better we can have weekday cls sat - sunday,47,10,0,0.0
+2026-02-13 13:50:00,2026-02-13,Friday,February,13,User127,AD and VLSI,11,3,0,1.0
+2026-02-13 13:51:00,2026-02-13,Friday,February,13,User119,CSE ka 2 baje khatam hota hoga humara shaam ko bhi rehta hai,60,13,0,1.0
+2026-02-13 13:53:00,2026-02-13,Friday,February,13,User82,"Dear Students,",14,2,0,2.0
+2026-02-13 13:54:00,2026-02-13,Friday,February,13,User129,Zyada time ka i mean,20,5,0,1.0
+2026-02-13 13:54:00,2026-02-13,Friday,February,13,User87,sir our classes is upto 6,25,6,0,0.0
+2026-02-13 13:54:00,2026-02-13,Friday,February,13,User125,"Classes are on all days including weekends, read instructions",61,9,0,0.0
+2026-02-13 13:54:00,2026-02-13,Friday,February,13,User67,For all students sir ?,22,5,0,0.0
+2026-02-13 13:54:00,2026-02-13,Friday,February,13,User64,Please remove the wednesday and Friday class,44,7,0,0.0
+2026-02-13 13:56:00,2026-02-13,Friday,February,13,User130,"Sir, it will be very difficult to attend the 6pm class since the open elective is ending at 6. We need some time to come to our hostel and start the SAP classes thereafter.",172,34,0,2.0
+2026-02-13 13:57:00,2026-02-13,Friday,February,13,User131,Sir it's not possible to attend at directly 6pm especially on days like wed and fri kindly keep the classes on Monday tue thurs or even Saturday or delay the timing a bit more. Otherwise the timings are really uncool to attend.,227,42,0,1.0
+2026-02-13 13:58:00,2026-02-13,Friday,February,13,User132,Yes sir please do not put any random timings it is hectic for students!,71,14,0,1.0
+2026-02-13 13:59:00,2026-02-13,Friday,February,13,User133,"what i dont understand is, the people with *no electives* have already been assigned classes from 7-9. while people with electives have classes in conflicting or unmanageable times. In the TnP meeting, it was specifically clarified that our classes will *NOT BE CONFLICTING* with our electives. Many of us took decisions based on this crucial assumption <This message was edited>",379,60,0,1.0
+2026-02-13 14:02:00,2026-02-13,Friday,February,14,User134,Exactly ..,10,2,0,3.0
+2026-02-13 14:04:00,2026-02-13,Friday,February,14,User41,exactly and yet they stating this timing without taking into consideration of the dayscholars either,100,15,0,2.0
+2026-02-13 14:08:00,2026-02-13,Friday,February,14,User119,"Sir, some of us are receiving the credentials but I got only one welcome email that too not in my name",102,21,0,4.0
+2026-02-13 14:11:00,2026-02-13,Friday,February,14,User108,Same Sir,8,2,0,3.0
+2026-02-13 14:12:00,2026-02-13,Friday,February,14,User135,"Yes sir , received credentials with different name",50,8,0,1.0
+2026-02-13 14:12:00,2026-02-13,Friday,February,14,User49,Good afternoon sir actually  my elective ends at 6:30 today so there is no way I will be allowed to leave before 6:15 please consider,133,25,0,0.0
+2026-02-13 14:13:00,2026-02-13,Friday,February,14,User53,Sir i got only one welcome email no credentials that too not in my name,71,15,0,1.0
+2026-02-13 14:13:00,2026-02-13,Friday,February,14,User136,Yes sir,7,2,0,0.0
+2026-02-13 14:14:00,2026-02-13,Friday,February,14,User49,If this is the one but it is not under my name,46,12,0,1.0
+2026-02-13 14:14:00,2026-02-13,Friday,February,14,User127,"Same sir, i dont have my login credentials",42,8,0,0.0
+2026-02-13 14:15:00,2026-02-13,Friday,February,14,User137,"Hello Team , ",13,3,0,1.0
+2026-02-13 14:15:00,2026-02-13,Friday,February,14,User131,Sir in the meeting we were said there will be guidelines given for each course like tests markings syllabus timings everything for all categories that is people with sap elective only or with both. ,198,34,0,0.0
+2026-02-13 14:16:00,2026-02-13,Friday,February,14,User59,Yes sir,7,2,0,1.0
+2026-02-13 14:21:00,2026-02-13,Friday,February,14,User137,"Hello Everyone,",15,2,0,5.0
+2026-02-13 14:22:00,2026-02-13,Friday,February,14,User131,Thank you,9,2,0,1.0
+2026-02-13 14:27:00,2026-02-13,Friday,February,14,User137,"Hello Everyone,",15,2,0,5.0
+2026-02-13 14:27:00,2026-02-13,Friday,February,14,User138,Refresh it!.,12,2,0,0.0
+2026-02-13 14:27:00,2026-02-13,Friday,February,14,User64,Sir please change the timming from 7pm,38,7,0,0.0
+2026-02-13 14:27:00,2026-02-13,Friday,February,14,User49,refresh once or twice and it might work,39,8,0,0.0
+2026-02-13 14:28:00,2026-02-13,Friday,February,14,User82,"Dear Students,",14,2,0,1.0
+2026-02-13 14:29:00,2026-02-13,Friday,February,14,User46,Sir 7-9 would have been the ideal time,38,8,0,1.0
+2026-02-13 14:30:00,2026-02-13,Friday,February,14,User139,yes sir please make it from 7,29,7,0,1.0
+2026-02-13 14:31:00,2026-02-13,Friday,February,14,User140,Pls sir ,8,2,0,1.0
+2026-02-13 14:31:00,2026-02-13,Friday,February,14,User43,Same sir,8,2,0,0.0
+2026-02-13 14:33:00,2026-02-13,Friday,February,14,User139,sir please respond to this concern too,38,7,0,2.0
+2026-02-13 14:42:00,2026-02-13,Friday,February,14,User46,Yes sir 7-9 works for everyone and for everyday ,48,9,0,9.0
+2026-02-13 14:44:00,2026-02-13,Friday,February,14,User141,"Respected Sir,",14,2,0,2.0
+2026-02-13 14:52:00,2026-02-13,Friday,February,14,User142,Yes sir we have elective from 3 to 6 it is not possible to attend  from the scheduled time you have given . If you do change the timing it would be grateful and prevent clashing of our elective classes,201,40,0,8.0
+2026-02-13 15:00:00,2026-02-13,Friday,February,15,User65,just register normally. it wont take that much time,51,9,0,8.0
+2026-02-13 15:02:00,2026-02-13,Friday,February,15,User64,its for student free access?,28,5,0,2.0
+2026-02-13 15:12:00,2026-02-13,Friday,February,15,User49,@⁨~Anshu Kumar⁩ sir I have already registered through this link I am not sure what to do about it,97,19,0,10.0
+2026-02-13 15:13:00,2026-02-13,Friday,February,15,User143,Same here,9,2,0,1.0
+2026-02-13 16:33:00,2026-02-13,Friday,February,16,User88,Yes sir,7,2,0,80.0
+2026-02-13 17:52:00,2026-02-13,Friday,February,17,User137,Hello Everyone 👋 ,17,3,1,79.0
+2026-02-13 17:53:00,2026-02-13,Friday,February,17,User137,Meeting link:,13,2,0,
+2026-02-13 17:57:00,2026-02-13,Friday,February,17,User69,Won't be able to join immediately,33,6,0,4.0
+2026-02-13 17:58:00,2026-02-13,Friday,February,17,User144,?,1,1,0,1.0
+2026-02-13 17:58:00,2026-02-13,Friday,February,17,User137,"Dear Students,",14,2,0,0.0
+2026-02-13 17:59:00,2026-02-13,Friday,February,17,User145,This?,5,1,0,1.0
+2026-02-13 17:59:00,2026-02-13,Friday,February,17,User137,Those who joined group now pls use above link to join the session,65,13,0,0.0
+2026-02-13 18:00:00,2026-02-13,Friday,February,18,User137,yes,3,1,0,
+2026-02-13 18:02:00,2026-02-13,Friday,February,18,User82,All of you join fast...,23,5,0,2.0
+2026-02-13 18:05:00,2026-02-13,Friday,February,18,User87,Sir our class is just over so it will take some time to reach the hostel to join,80,18,0,3.0
+2026-02-13 18:06:00,2026-02-13,Friday,February,18,User125,Yes Sir,7,2,0,1.0
+2026-02-13 18:06:00,2026-02-13,Friday,February,18,User73,sir i am not able to connect to the hostel wifi and mobile network doesnt work in my room,89,19,0,0.0
+2026-02-13 18:07:00,2026-02-13,Friday,February,18,User69,Yes sir,7,2,0,1.0
+2026-02-13 18:13:00,2026-02-13,Friday,February,18,User46,Is it just me or kisi ko bhi kuch awaj nhi aa rhi?,50,13,0,6.0
+2026-02-13 18:13:00,2026-02-13,Friday,February,18,User146,Same problem,12,2,0,0.0
+2026-02-13 18:14:00,2026-02-13,Friday,February,18,User147,"Dear Students,",14,2,0,1.0
+2026-02-13 18:14:00,2026-02-13,Friday,February,18,User146,Wifi hi nahi h,14,4,0,0.0
+2026-02-13 18:14:00,2026-02-13,Friday,February,18,User147,.,1,1,0,0.0
+2026-02-13 18:16:00,2026-02-13,Friday,February,18,User73,25A is having this issue at the moment sir,42,9,0,2.0
+2026-02-13 18:25:00,2026-02-13,Friday,February,18,User148,Theres no wifi in both phone and laptop,39,8,0,9.0
+2026-02-13 18:29:00,2026-02-13,Friday,February,18,User54,Yes sir,7,2,0,4.0
+2026-02-13 18:46:00,2026-02-13,Friday,February,18,User149,BTP Course: https://learning.sap.com/certifications/sap-certified-associate-backend-developer-sap-cloud-programming-model?searchId=2e80096e-e92b-49b4-ad30-3556a0a22e5e&listPosition=1,182,3,0,17.0
+2026-02-13 18:49:00,2026-02-13,Friday,February,18,User150,Data analytics ka bhi bhejo,27,5,0,3.0
+2026-02-13 18:49:00,2026-02-13,Friday,February,18,User64,Otc ka bhi konsa heh,20,5,0,0.0
+2026-02-13 18:50:00,2026-02-13,Friday,February,18,User101,"Can someone send the course pdf,",32,6,0,1.0
+2026-02-13 18:50:00,2026-02-13,Friday,February,18,User151,What to do with excelr account anyone please clarify??,54,9,0,0.0
+2026-02-13 18:50:00,2026-02-13,Friday,February,18,User33,Suna agar attendance le toh batana,34,6,0,0.0
+2026-02-13 18:56:00,2026-02-13,Friday,February,18,User149,Data Analytics: C_BCBDC - SAP Certified Associate - SAP Business Data Cloud,75,12,0,6.0
+2026-02-13 18:57:00,2026-02-13,Friday,February,18,User64,Can anyone please provide the otc consultant link,49,8,0,1.0
+2026-02-13 18:57:00,2026-02-13,Friday,February,18,User64,?,1,1,0,
+2026-02-13 18:58:00,2026-02-13,Friday,February,18,User141,ExcelR Edtech Pvt. Ltd. and SAP have the same username and password?,68,12,0,1.0
+2026-02-13 18:58:00,2026-02-13,Friday,February,18,User141,or we have to manually register in the sap,42,9,0,
+2026-02-13 18:58:00,2026-02-13,Friday,February,18,User46,its for data/analytics engineer ?,33,5,0,0.0
+2026-02-13 18:59:00,2026-02-13,Friday,February,18,User152,ExcelR password and username is provided via email,50,8,0,1.0
+2026-02-13 18:59:00,2026-02-13,Friday,February,18,User149,Yes,3,1,0,0.0
+2026-02-13 18:59:00,2026-02-13,Friday,February,18,User124,Yes,3,1,0,0.0
+2026-02-13 18:59:00,2026-02-13,Friday,February,18,User85,You have to register,20,4,0,0.0
+2026-02-13 19:03:00,2026-02-13,Friday,February,19,User153,"Sir, which course is for SAP Integration Developer?",51,8,0,4.0
+2026-02-13 19:03:00,2026-02-13,Friday,February,19,User41,https://learning.sap.com/learning-journeys/acquiring-core-abap-skills,69,1,0,0.0
+2026-02-13 19:04:00,2026-02-13,Friday,February,19,User83,But there is sap analytics course also available,48,8,0,1.0
+2026-02-13 19:05:00,2026-02-13,Friday,February,19,User108,Sir which course is for SAP FIORI developer,43,8,0,1.0
+2026-02-13 19:06:00,2026-02-13,Friday,February,19,User114,which one is for data analytics,31,6,0,1.0
+2026-02-13 19:06:00,2026-02-13,Friday,February,19,User141,"okay, after making account in SAP, what do we need to do next?",62,13,0,0.0
+2026-02-13 19:07:00,2026-02-13,Friday,February,19,User154,+1,2,1,0,1.0
+2026-02-13 19:08:00,2026-02-13,Friday,February,19,User155,https://learning.sap.com/certifications/sap-certified-associate-sap-fiori-application-developer-1?searchId=01ec7c8c-80ec-4e01-a5a9-1b5422f1cc54&listPosition=1,158,1,0,1.0
+2026-02-13 19:08:00,2026-02-13,Friday,February,19,User83,This one  is for data analytics,31,6,0,0.0
+2026-02-13 19:12:00,2026-02-13,Friday,February,19,User142,Is there any attendance today ?,31,6,0,4.0
+2026-02-13 19:12:00,2026-02-13,Friday,February,19,User145,Yes,3,1,0,0.0
+2026-02-13 19:12:00,2026-02-13,Friday,February,19,User84,Same issue Sir ..,17,4,0,0.0
+2026-02-13 19:13:00,2026-02-13,Friday,February,19,User156,Yes it has already been recorded,32,6,0,1.0
+2026-02-13 19:13:00,2026-02-13,Friday,February,19,User157,This one matches the one mentioned in pdf,41,8,0,0.0
+2026-02-13 19:14:00,2026-02-13,Friday,February,19,User156,C_CPE just search it for sap btp,32,7,0,1.0
+2026-02-13 19:14:00,2026-02-13,Friday,February,19,User157,"Yeah, this one also works. Thanks!",34,6,0,0.0
+2026-02-13 19:14:00,2026-02-13,Friday,February,19,User149,This is direct link for Data Analytics,38,7,0,0.0
+2026-02-13 19:14:00,2026-02-13,Friday,February,19,User149,This is direct link for BTP,27,6,0,
+2026-02-13 19:15:00,2026-02-13,Friday,February,19,User129,https://chat.whatsapp.com/E03wFJMBXI68ITFVxHC9PQ?mode=gi_t,58,1,0,1.0
+2026-02-13 19:15:00,2026-02-13,Friday,February,19,User158,This is the one for ABAP?,25,6,0,0.0
+2026-02-13 19:15:00,2026-02-13,Friday,February,19,User129,Follow this link to join my WhatsApp group: https://chat.whatsapp.com/E03wFJMBXI68ITFVxHC9PQ?mode=gi_t,102,9,0,0.0
+2026-02-13 19:15:00,2026-02-13,Friday,February,19,User149,"The course name in 2nd column, copy it and paste it",51,11,0,0.0
+2026-02-13 19:15:00,2026-02-13,Friday,February,19,User67,Sap otc ka link koi bhejo please,32,7,0,0.0
+2026-02-13 19:17:00,2026-02-13,Friday,February,19,User149,SAP ABAP:,9,2,0,2.0
+2026-02-13 19:17:00,2026-02-13,Friday,February,19,User108,FIORI ka bhi please,19,4,0,0.0
+2026-02-13 19:17:00,2026-02-13,Friday,February,19,User155,https://learning.sap.com/certifications/sap-certified-associate-sap-fiori-application-developer-1?searchId=01ec7c8c-80ec-4e01-a5a9-1b5422f1cc54&listPosition=1,158,1,0,0.0
+2026-02-13 19:18:00,2026-02-13,Friday,February,19,User64,Same,4,1,0,1.0
+2026-02-13 19:18:00,2026-02-13,Friday,February,19,User58,Can anyone pls just confirm it once...like we will have the intro and pre requisite classes that will be held everyday on exelr...and then also have to complete the sap course we opted from the sap platform in parallel to those live classes going on in excelr....also like we will have to register in sap...? <This message was edited>,334,59,0,0.0
+2026-02-13 19:19:00,2026-02-13,Friday,February,19,User129,Follow this link to join my WhatsApp group: https://chat.whatsapp.com/E03wFJMBXI68ITFVxHC9PQ?mode=gi_t,102,9,0,1.0
+2026-02-13 19:19:00,2026-02-13,Friday,February,19,User155,The first one,13,3,0,0.0
+2026-02-13 19:20:00,2026-02-13,Friday,February,19,User129,Only S2p people join,20,4,0,1.0
+2026-02-13 19:20:00,2026-02-13,Friday,February,19,User160,Integration developer ??,24,3,0,0.0
+2026-02-13 19:20:00,2026-02-13,Friday,February,19,User152,Yes,3,1,0,0.0
+2026-02-13 19:20:00,2026-02-13,Friday,February,19,User83,https://learning.sap.com/certifications/sap-certified-associate-sap-business-data-cloud?searchId=1c688b1d-c075-4cf7-8e06-8a604ec67546&listPosition=1,148,1,0,0.0
+2026-02-13 19:20:00,2026-02-13,Friday,February,19,User159,If anyone found Data analytics course in sap pls share link,59,11,0,0.0
+2026-02-13 19:20:00,2026-02-13,Friday,February,19,User99,Where is the Data engineer course ?,35,7,0,0.0
+2026-02-13 19:23:00,2026-02-13,Friday,February,19,User141,It keeps showing error...,25,4,0,3.0
+2026-02-13 19:23:00,2026-02-13,Friday,February,19,User161,Thats why im asking,19,4,0,0.0
+2026-02-13 19:23:00,2026-02-13,Friday,February,19,User161,Yeah I got this,15,4,0,
+2026-02-13 19:23:00,2026-02-13,Friday,February,19,User161,"Btw, anyone got their account completely verified for the course?",65,10,0,
+2026-02-13 19:23:00,2026-02-13,Friday,February,19,User160,…,1,1,0,0.0
+2026-02-13 19:23:00,2026-02-13,Friday,February,19,User141,How did you verify your documents?,34,6,0,0.0
+2026-02-13 19:24:00,2026-02-13,Friday,February,19,User33,S2p kya hei?,12,3,0,1.0
+2026-02-13 19:24:00,2026-02-13,Friday,February,19,User161,Yea idk some ppl are getting error,34,7,0,0.0
+2026-02-13 19:25:00,2026-02-13,Friday,February,19,User157,I registered on sap and there was no need to upload id card or anything. Where are you guys uploading it?,105,21,0,1.0
+2026-02-13 19:25:00,2026-02-13,Friday,February,19,User161,@⁨~Aditya Prakash⁩ ,19,2,0,0.0
+2026-02-13 19:26:00,2026-02-13,Friday,February,19,User161,Verifying the thing which u got on mail,39,8,0,
+2026-02-13 19:26:00,2026-02-13,Friday,February,19,User87,bro how to verify?? please tell,31,6,0,0.0
+2026-02-13 19:26:00,2026-02-13,Friday,February,19,User141,When you scroll down your login page,36,7,0,0.0
+2026-02-13 19:26:00,2026-02-13,Friday,February,19,User162,exactly,7,1,0,0.0
+2026-02-13 19:26:00,2026-02-13,Friday,February,19,User29,Pata nhi,8,2,0,0.0
+2026-02-13 19:27:00,2026-02-13,Friday,February,19,User120,exactly but I still got the verification mail,45,8,0,1.0
+2026-02-13 19:27:00,2026-02-13,Friday,February,19,User161,Yes,3,1,0,0.0
+2026-02-13 19:27:00,2026-02-13,Friday,February,19,User161,That mail will take u to this page,34,8,0,
+2026-02-13 19:27:00,2026-02-13,Friday,February,19,User141,Here you'll need to verify but I uploaded everything I could,60,11,0,0.0
+2026-02-13 19:27:00,2026-02-13,Friday,February,19,User161,Did your verification complete?,31,4,0,0.0
+2026-02-13 19:28:00,2026-02-13,Friday,February,19,User87,do i have to register??,23,5,0,1.0
+2026-02-13 19:28:00,2026-02-13,Friday,February,19,User141,"It's pending, if anyone manages to do it....do update",53,9,0,0.0
+2026-02-13 19:28:00,2026-02-13,Friday,February,19,User163,add ur recovery email ,22,4,0,0.0
+2026-02-13 19:28:00,2026-02-13,Friday,February,19,User157,I just got the onboarding mail,30,6,0,0.0
+2026-02-13 19:28:00,2026-02-13,Friday,February,19,User141,"The ID card doesn't do it, I tried doing sap ss, but that didn't work either",76,16,0,0.0
+2026-02-13 19:29:00,2026-02-13,Friday,February,19,User157,Yes,3,1,0,1.0
+2026-02-13 19:30:00,2026-02-13,Friday,February,19,User87,but i have already the credential... then,41,7,0,1.0
+2026-02-13 19:30:00,2026-02-13,Friday,February,19,User87,thanks,6,1,0,
+2026-02-13 19:30:00,2026-02-13,Friday,February,19,User163,yes,3,1,0,0.0
+2026-02-13 19:30:00,2026-02-13,Friday,February,19,User157,A random password and kiit mail as username right?,50,9,0,0.0
+2026-02-13 19:30:00,2026-02-13,Friday,February,19,User87,ohh,3,1,0,0.0
+2026-02-13 19:30:00,2026-02-13,Friday,February,19,User157,Those credentials are for excelr,32,5,0,0.0
+2026-02-13 19:31:00,2026-02-13,Friday,February,19,User157,Login on excelr using the credentials given through mail,56,9,0,
+2026-02-13 19:31:00,2026-02-13,Friday,February,19,User157,Register,8,1,0,
+2026-02-13 19:31:00,2026-02-13,Friday,February,19,User87,register or log in?,19,4,0,0.0
+2026-02-13 19:31:00,2026-02-13,Friday,February,19,User164,Register in sap portal,22,4,0,0.0
+2026-02-13 19:32:00,2026-02-13,Friday,February,19,User157,"Same doubt, I believe we have to complete the excelr foundation course first for this",85,15,0,1.0
+2026-02-13 19:44:00,2026-02-13,Friday,February,19,User68,Can someone verify if this is the course for btp,48,10,0,12.0
+2026-02-13 19:45:00,2026-02-13,Friday,February,19,User149,Yes,3,1,0,1.0
+2026-02-13 19:45:00,2026-02-13,Friday,February,19,User68,Thanks,6,1,0,0.0
+2026-02-13 19:46:00,2026-02-13,Friday,February,19,User165,okay thnx,9,2,0,1.0
+2026-02-13 19:50:00,2026-02-13,Friday,February,19,User149,Follow this link to join my WhatsApp group: https://chat.whatsapp.com/Bn4Pd555hFo2v5jgvsTXfC,92,9,0,4.0
+2026-02-13 19:56:00,2026-02-13,Friday,February,19,User166,Follow this link to join my WhatsApp group: https://chat.whatsapp.com/Keh5z6CCmtf4FtS15048Wb?mode=gi_t,102,9,0,6.0
+2026-02-13 19:56:00,2026-02-13,Friday,February,19,User166,https://chat.whatsapp.com/Keh5z6CCmtf4FtS15048Wb?mode=gi_t,58,1,0,
+2026-02-13 19:57:00,2026-02-13,Friday,February,19,User108,FIORI group?,12,2,0,1.0
+2026-02-13 19:58:00,2026-02-13,Friday,February,19,User167,Can someone please forward the Data analytics group please,58,9,0,1.0
+2026-02-13 19:58:00,2026-02-13,Friday,February,19,User158,Is there a group for ABAP?,26,6,0,0.0
+2026-02-13 20:00:00,2026-02-13,Friday,February,20,User61,Integration dev group?,22,3,0,2.0
+2026-02-13 20:00:00,2026-02-13,Friday,February,20,User118,‎Open this link to join my WhatsApp Group: https://chat.whatsapp.com/DRnPzE42fSTGQspznxmIIc?mode=gi_t,101,9,0,0.0
+2026-02-13 20:00:00,2026-02-13,Friday,February,20,User167,Thanks ✨️,9,2,0,0.0
+2026-02-13 20:01:00,2026-02-13,Friday,February,20,User166,Follow this link to join my WhatsApp group: https://chat.whatsapp.com/Keh5z6CCmtf4FtS15048Wb?mode=gi_t,102,9,0,1.0
+2026-02-13 20:06:00,2026-02-13,Friday,February,20,User166,No,2,1,0,
+2026-02-13 20:06:00,2026-02-13,Friday,February,20,User168,anyone else still getting an error in verifying?,48,8,0,0.0
+2026-02-13 20:06:00,2026-02-13,Friday,February,20,User169,Yes,3,1,0,0.0
+2026-02-13 20:26:00,2026-02-13,Friday,February,20,User170,Is that allowed cuz I did it,28,7,0,20.0
+2026-02-13 20:26:00,2026-02-13,Friday,February,20,User170,Did someone register with their personal email ?,48,8,0,
+2026-02-13 20:29:00,2026-02-13,Friday,February,20,User171,I don't think so,16,4,0,3.0
+2026-02-13 20:30:00,2026-02-13,Friday,February,20,User73,just register again with clg email,34,6,0,1.0
+2026-02-13 20:30:00,2026-02-13,Friday,February,20,User73,ion think so,12,3,0,
+2026-02-13 20:31:00,2026-02-13,Friday,February,20,User172,Yes,3,1,0,1.0
+2026-02-13 20:31:00,2026-02-13,Friday,February,20,User119,Someone confirm this,20,3,0,0.0
+2026-02-13 20:48:00,2026-02-13,Friday,February,20,User67,Sap otc ka group and link bhejdo koi,36,8,0,17.0
+2026-02-13 20:50:00,2026-02-13,Friday,February,20,User173,Waiting for this message,24,4,0,2.0
+2026-02-13 20:50:00,2026-02-13,Friday,February,20,User172,What should we do,17,4,0,0.0
+2026-02-13 20:52:00,2026-02-13,Friday,February,20,User67,.,1,1,0,2.0
+2026-02-13 20:57:00,2026-02-13,Friday,February,20,User172,SAME😭,5,1,1,5.0
+2026-02-13 21:50:00,2026-02-13,Friday,February,21,User166,Follow this link to join my WhatsApp group: https://chat.whatsapp.com/Keh5z6CCmtf4FtS15048Wb?mode=gi_t,102,9,0,53.0
+2026-02-13 21:52:00,2026-02-13,Friday,February,21,User90,Any group for ABAP yet?,23,5,0,2.0
+2026-02-13 21:57:00,2026-02-13,Friday,February,21,User174,Follow this link to join my WhatsApp group: https://chat.whatsapp.com/E6bUVL2vxnK7JiD39SCggz?mode=gi_t,102,9,0,5.0
+2026-02-13 21:57:00,2026-02-13,Friday,February,21,User41,is it necessary?,16,3,0,0.0
+2026-02-13 21:58:00,2026-02-13,Friday,February,21,User158,Will be helpful for course specific doubts for each course,58,10,0,1.0
+2026-02-13 21:59:00,2026-02-13,Friday,February,21,User41,hmm sure,8,2,0,1.0
+2026-02-13 22:01:00,2026-02-13,Friday,February,22,User175,Is there any grp frfiori?? <This message was edited>,52,9,0,2.0
+2026-02-13 22:07:00,2026-02-13,Friday,February,22,User64,Is there any grp link for otc?,30,7,0,6.0
+2026-02-13 22:10:00,2026-02-13,Friday,February,22,User85,SAP FIORI Developer WhatsApp Group https://chat.whatsapp.com/D7tOlV9ILiO5wB9j81JHhJ?mode=gi_t,93,6,0,3.0
+2026-02-13 22:24:00,2026-02-13,Friday,February,22,User67,Bhai koi otc ka group banao,27,6,0,14.0
+2026-02-13 22:37:00,2026-02-13,Friday,February,22,User3,*TRAINING + INTERNSHIP PROGRAM*                                                                                                                                                                                                      ,229,4,0,13.0
+2026-02-13 23:00:00,2026-02-13,Friday,February,23,User176,"Hi Students,",12,2,0,23.0
+2026-02-13 23:05:00,2026-02-13,Friday,February,23,User177,Follow this link to join my WhatsApp group: https://chat.whatsapp.com/Igb420RzuFdL7ZFPw2ZZJN?mode=gi_t,102,9,0,5.0
+2026-02-13 23:06:00,2026-02-13,Friday,February,23,User177,SAP OTC,7,2,0,
+2026-02-13 23:29:00,2026-02-13,Friday,February,23,User166,Follow this link to join my WhatsApp group: https://chat.whatsapp.com/Keh5z6CCmtf4FtS15048Wb?mode=gi_t,102,9,0,23.0
+2026-02-14 17:06:00,2026-02-14,Saturday,February,17,User63,classes are from Monday right? for all SAP courses?,51,9,0,1057.0
+2026-02-14 17:09:00,2026-02-14,Saturday,February,17,User65,Yes,3,1,0,3.0
+2026-02-14 17:59:00,2026-02-14,Saturday,February,17,User178,Same problem sir,16,3,0,50.0
+2026-02-14 18:01:00,2026-02-14,Saturday,February,18,User142,Same sir,8,2,0,2.0
+2026-02-14 18:13:00,2026-02-14,Saturday,February,18,User169,Same problem sir,16,3,0,12.0
+2026-02-14 18:18:00,2026-02-14,Saturday,February,18,User179,Is there any group link for sap btp?,36,8,0,5.0
+2026-02-14 18:27:00,2026-02-14,Saturday,February,18,User85,.,1,1,0,9.0
+2026-02-14 18:29:00,2026-02-14,Saturday,February,18,User82,No problem... you can continue with MyLearning 😊.,49,8,1,2.0
+2026-02-14 18:36:00,2026-02-14,Saturday,February,18,User63,Thank you sir,13,3,0,7.0
+2026-02-14 18:36:00,2026-02-14,Saturday,February,18,User82,"Dear Students,",14,2,0,0.0
+2026-02-14 18:37:00,2026-02-14,Saturday,February,18,User41,Thank you sir,13,3,0,1.0
+2026-02-14 18:39:00,2026-02-14,Saturday,February,18,User180,Monday to Friday?,17,3,0,2.0
+2026-02-14 18:48:00,2026-02-14,Saturday,February,18,User60,Thank you sir,13,3,0,9.0
+2026-02-15 13:20:00,2026-02-15,Sunday,February,13,User34,"Dear Students,",14,2,0,1112.0
+2026-02-15 16:43:00,2026-02-15,Sunday,February,16,User82,"Dear Students,",14,2,0,203.0
+2026-02-16 12:02:00,2026-02-16,Monday,February,12,User181,Can anyone provide me link for sap otc grp ???,46,10,0,1159.0
+2026-02-16 12:12:00,2026-02-16,Monday,February,12,User182,.,1,1,0,10.0
+2026-02-16 12:12:00,2026-02-16,Monday,February,12,User181,It is showing Invite link is reset,34,7,0,0.0
+2026-02-16 12:22:00,2026-02-16,Monday,February,12,User79,Any link for SAP Btp (c_cpe)?,29,6,0,10.0
+2026-02-16 12:26:00,2026-02-16,Monday,February,12,User82,It will be shared soon...guys.,30,5,0,4.0
+2026-02-16 13:02:00,2026-02-16,Monday,February,13,User82,"Guys, don't share unnecessary group links here... students will get confused. It's an official group, so let's keep it official. Else, I'll change the admin permission to post in the group...",191,31,0,
+2026-02-16 14:42:00,2026-02-16,Monday,February,14,User137,Topic: ExcelR & KIIT_Feb26_ SAP Program _B8 -   6:30 PM – 8:00 PM - OE,70,15,0,100.0
+2026-02-16 18:23:00,2026-02-16,Monday,February,18,User176,Hello Everyone 👋 ,17,3,1,221.0
+2026-02-16 18:46:00,2026-02-16,Monday,February,18,User105,Is the on-going class for everyone irrespective of the choice-based sap electives?,82,12,0,23.0
+2026-02-16 18:48:00,2026-02-16,Monday,February,18,User105,And after this we will be giving our attendance on ExcelR right?,64,12,0,
+2026-02-16 18:48:00,2026-02-16,Monday,February,18,User183,Yes,3,1,0,0.0
+2026-02-16 18:49:00,2026-02-16,Monday,February,18,User85,Yess,4,1,0,1.0
+2026-02-16 19:05:00,2026-02-16,Monday,February,19,User137,"Hello Everyone,",15,2,0,16.0
+2026-02-16 19:05:00,2026-02-16,Monday,February,19,User184,After registering  if we don't attend this even after choosing continuing with both elective will we get backlog,112,18,0,0.0
+2026-02-16 19:06:00,2026-02-16,Monday,February,19,User185,Have the same question <This message was edited>,48,8,0,1.0
+2026-02-16 19:07:00,2026-02-16,Monday,February,19,User46,People opting for both won't have any academic drawback ,56,9,0,1.0
+2026-02-16 19:07:00,2026-02-16,Monday,February,19,User186,Have the same question sir,26,5,0,0.0
+2026-02-16 19:08:00,2026-02-16,Monday,February,19,User187,Have the same question sir,26,5,0,1.0
+2026-02-16 19:11:00,2026-02-16,Monday,February,19,User108,No your subject in the grade report will be open elective only if you have opted both,85,17,0,3.0
+2026-02-16 20:06:00,2026-02-16,Monday,February,20,User188,do we have to mark the attendance in excelr website or marking it through live class is sufficient?,99,18,0,55.0
+2026-02-16 20:07:00,2026-02-16,Monday,February,20,User188,ok thank you sir,16,4,0,
+2026-02-16 20:07:00,2026-02-16,Monday,February,20,User137,..,2,1,0,0.0
+2026-02-16 22:45:00,2026-02-16,Monday,February,22,User176,@all ,5,1,0,158.0
+2026-02-17 14:37:00,2026-02-17,Tuesday,February,14,User137,"""Topic: ExcelR & KIIT_Feb26_ SAP Program _B8 -   6:30 PM – 8:00 PM - OE",71,15,0,952.0
+2026-02-17 18:31:00,2026-02-17,Tuesday,February,18,User137,Hello Everyone 👋 ,17,3,1,
+2026-02-17 19:11:00,2026-02-17,Tuesday,February,19,User33,Qr bhej dena,12,3,0,40.0
+2026-02-18 00:23:00,2026-02-18,Wednesday,February,0,User2,*TRAINING + INTERNSHIP PROGRAM*                                                                                                                                                                                                      ,229,4,0,312.0
+2026-02-18 09:04:00,2026-02-18,Wednesday,February,9,User29,"Sir, can you please check once and tell me about the progress of my paper",73,15,0,521.0
+2026-02-18 09:27:00,2026-02-18,Wednesday,February,9,User30,All ICCTRDA papers are under publication. Springer takes time dear. It will be online by may-june I think.,106,18,0,23.0
+2026-02-18 11:29:00,2026-02-18,Wednesday,February,11,User163,"Dear Sir,",9,2,0,122.0
+2026-02-18 11:33:00,2026-02-18,Wednesday,February,11,User137,Yes You will get that on LMS Portal shortly,43,9,0,4.0
+2026-02-18 11:34:00,2026-02-18,Wednesday,February,11,User163,Thank you sir,13,3,0,1.0
+2026-02-18 15:58:00,2026-02-18,Wednesday,February,15,User137,"""Topic: ExcelR & KIIT_Feb26_ SAP Program _B8 -   6:30 PM – 8:00 PM - OE",71,15,0,264.0
+2026-02-18 18:20:00,2026-02-18,Wednesday,February,18,User137,Hello Everyone 👋 ,17,3,1,
