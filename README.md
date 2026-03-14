@@ -1,4 +1,4 @@
-# 🧠 ConvoIQ — Conversational Intelligence & Behavioral Analytics System
+# ConvoIQ — Conversational Intelligence & Behavioral Analytics System
 
 > End-to-end NLP project: from raw WhatsApp exports to a production-grade analytics dashboard with ML-powered authorship prediction.
 
@@ -9,20 +9,20 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 ConvoIQ transforms unstructured WhatsApp group chat exports into a rich intelligence platform. It combines classical NLP, behavioral feature engineering, and Random Forest classification to extract deep insights from conversational data.
 
 **Key Differentiators:**
-- 🧬 **Behavioral Fingerprinting** — Unique communication DNA per user (vocabulary richness, peak hours, response patterns)
-- 📈 **Conversation Momentum** — Rolling-average trend to track group engagement over time
-- ❤️ **Sentiment Timeline** — VADER-powered daily sentiment tracking across the group
-- 🔗 **Response Chain Analysis** — Who replies to whom, revealing interaction graphs
-- 🤖 **Author Prediction** — TF-IDF + behavioral features → Random Forest classifier with confidence scores
+- **Behavioral Fingerprinting** — Unique communication DNA per user (vocabulary richness, peak hours, response patterns)
+- **Conversation Momentum** — Rolling-average trend to track group engagement over time
+- **Sentiment Timeline** — VADER-powered daily sentiment tracking across the group
+- **Response Chain Analysis** — Who replies to whom, revealing interaction graphs
+- **Author Prediction** — TF-IDF + behavioral features → Random Forest classifier with confidence scores
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 convoiq/
@@ -52,7 +52,7 @@ convoiq/
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ```bash
 # 1. Clone / download the project
@@ -69,7 +69,7 @@ streamlit run app.py
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Data Preprocessing (`src/preprocessor.py`)
 - Regex-based parsing of WhatsApp export format (`D/M/YY, HH:MM - User: message`)
@@ -101,15 +101,15 @@ Five interactive sections:
 
 | Tab | Description |
 |-----|-------------|
-| 🏠 Overview | KPIs, volume trend, sentiment distribution, auto-insights |
-| 👥 User Analytics | Leaderboard, behavioral fingerprint radar, response times |
-| ⏰ Time Analysis | Hourly bars, day-of-week, heatmap, monthly breakdown |
-| 💬 NLP Insights | Sentiment timeline, word clouds, keyword frequency, response chains |
-| 🤖 Author Prediction | Real-time authorship prediction with confidence scores |
+| Overview | KPIs, volume trend, sentiment distribution, auto-insights |
+| User Analytics | Leaderboard, behavioral fingerprint radar, response times |
+| Time Analysis | Hourly bars, day-of-week, heatmap, monthly breakdown |
+| NLP Insights | Sentiment timeline, word clouds, keyword frequency, response chains |
+| Author Prediction | Real-time authorship prediction with confidence scores |
 
 ---
 
-## 🧬 Behavioral Fingerprint
+## Behavioral Fingerprint
 
 Each user is profiled across six dimensions visualised on a radar chart:
 
@@ -124,7 +124,7 @@ Badges are auto-assigned: *Night Owl*, *Question Asker*, *Emoji Lover*, *Convers
 
 ---
 
-## 📊 Tech Stack
+## Tech Stack
 
 | Category | Libraries |
 |----------|-----------|
@@ -136,17 +136,17 @@ Badges are auto-assigned: *Night Owl*, *Question Asker*, *Emoji Lover*, *Convers
 
 ---
 
-## 🚀 Deployment (Streamlit Cloud)
+## Deployment (Streamlit Cloud)
 
 1. Push this repository to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io) → New app
 3. Point to `app.py`
 4. Add `models/*.pkl` files to the repo (or use `st.secrets` + cloud storage)
-5. Deploy ✅
+5. Deploy 
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 - [ ] BERT/sentence-transformers for richer text embeddings
 - [ ] Topic modelling with BERTopic
@@ -157,7 +157,7 @@ Badges are auto-assigned: *Night Owl*, *Question Asker*, *Emoji Lover*, *Convers
 
 ---
 
-## 📜 Privacy Note
+## Privacy Note
 
 All personal identifiers (names, phone numbers) are anonymised to `User1, User2, …` during preprocessing. No raw personal data is stored or transmitted.
 
